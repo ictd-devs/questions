@@ -2,2499 +2,1925 @@
   "questions": [
     {
       "id": "va1",
-      "question": "Choose the word most similar in meaning to PRAGMATIC:",
+      "question": "Choose the word most similar in meaning to ABUNDANT:",
       "options": [
-        "Idealistic",
-        "Practical",
-        "Emotional",
-        "Uncertain"
+        "Sparse",
+        "Limited",
+        "Plentiful",
+        "Scarce"
       ],
-      "correctIndex": 1,
-      "explanation": "Pragmatic means dealing with things sensibly and realistically, which matches practical."
+      "correctIndex": 2,
+      "explanation": "Abundant means plentiful, which is the closest synonym."
     },
     {
       "id": "va2",
-      "question": "Choose the word opposite in meaning to DILIGENT:",
+      "question": "Choose the word most similar in meaning to ACCURATE:",
       "options": [
-        "Careful",
-        "Persistent",
-        "Lazy",
-        "Focused"
+        "Inexact",
+        "Approximate",
+        "Wrong",
+        "Precise"
       ],
-      "correctIndex": 2,
-      "explanation": "Diligent means hardworking and careful, so the opposite is lazy."
+      "correctIndex": 3,
+      "explanation": "Accurate means precise, which is the closest synonym."
     },
     {
       "id": "va3",
-      "question": "Which sentence is grammatically correct?",
+      "question": "Choose the word most similar in meaning to ADAPTABLE:",
       "options": [
-        "Each of the officers were present at the briefing.",
-        "Each of the officers was present at the briefing.",
-        "Each of the officers are present at the briefing.",
-        "Each of the officers have been present at the briefing."
+        "Rigid",
+        "Inflexible",
+        "Stiff",
+        "Flexible"
       ],
-      "correctIndex": 1,
-      "explanation": "Each is singular, so it takes the singular verb was."
+      "correctIndex": 3,
+      "explanation": "Adaptable means flexible, which is the closest synonym."
     },
     {
       "id": "va4",
-      "question": "Choose the correctly spelled word:",
+      "question": "Choose the word most similar in meaning to BENEVOLENT:",
       "options": [
-        "Accomodate",
-        "Acommodate",
-        "Accommodate",
-        "Acomoddate"
+        "Cruel",
+        "Malevolent",
+        "Harsh",
+        "Kind"
       ],
-      "correctIndex": 2,
-      "explanation": "The correct spelling is accommodate."
+      "correctIndex": 3,
+      "explanation": "Benevolent means kind, which is the closest synonym."
     },
     {
       "id": "va5",
-      "question": "Identify the sentence with the correct punctuation:",
+      "question": "Choose the word most similar in meaning to CANDID:",
       "options": [
-        "If you complete the report, please email it to me",
-        "If you complete the report please, email it to me.",
-        "If you complete the report, please email it to me.",
-        "If you complete, the report please email it to me."
+        "Dishonest",
+        "Secretive",
+        "Deceptive",
+        "Frank"
       ],
-      "correctIndex": 2,
-      "explanation": "A comma follows the introductory clause, and the sentence ends with a period."
+      "correctIndex": 3,
+      "explanation": "Candid means frank, which is the closest synonym."
     },
     {
       "id": "va6",
-      "question": "Choose the word that best completes the sentence: The committee arrived at a _____ decision after hours of debate.",
-      "options": [
-        "consensus",
-        "consensual",
-        "consensuses",
-        "consenting"
-      ],
-      "correctIndex": 1,
-      "explanation": "Consensual is the adjective form that correctly modifies decision."
-    },
-    {
-      "id": "va7",
-      "question": "In the sentence 'The policy had far-reaching implications,' the word implications most nearly means:",
-      "options": [
-        "Causes",
-        "Effects",
-        "Intentions",
-        "Objections"
-      ],
-      "correctIndex": 1,
-      "explanation": "Implications refers to likely effects or consequences."
-    },
-    {
-      "id": "va8",
-      "question": "Choose the sentence that uses the pronoun correctly:",
-      "options": [
-        "The final decision was made by the director and I.",
-        "The final decision was made by the director and me.",
-        "The final decision was made by me and he.",
-        "The final decision was made by I and the director."
-      ],
-      "correctIndex": 1,
-      "explanation": "After the preposition by, the objective pronoun me is required."
-    },
-    {
-      "id": "va9",
-      "question": "Choose the word most similar in meaning to ABUNDANT:",
-      "options": [
-        "Plentiful",
-        "Obvious",
-        "Thorough",
-        "Obtain"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of abundant is plentiful."
-    },
-    {
-      "id": "va10",
-      "question": "Choose the word most similar in meaning to ACCURATE:",
-      "options": [
-        "Difficult",
-        "Precise",
-        "Brief",
-        "Discourage"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of accurate is precise."
-    },
-    {
-      "id": "va11",
-      "question": "Choose the word most similar in meaning to ADAPTABLE:",
-      "options": [
-        "Eloquent",
-        "Agree",
-        "Flexible",
-        "Industrious"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of adaptable is flexible."
-    },
-    {
-      "id": "va12",
-      "question": "Choose the word most similar in meaning to ADEPT:",
-      "options": [
-        "Bold",
-        "Noticeable",
-        "Reduce",
-        "Skilled"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of adept is skilled."
-    },
-    {
-      "id": "va13",
-      "question": "Choose the word most similar in meaning to ADVERSE:",
-      "options": [
-        "Unfavorable",
-        "Genuine",
-        "Believable",
-        "Tactful"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of adverse is unfavorable."
-    },
-    {
-      "id": "va14",
-      "question": "Choose the word most similar in meaning to AMIABLE:",
-      "options": [
-        "Kind",
-        "Friendly",
-        "Essential",
-        "Varied"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of amiable is friendly."
-    },
-    {
-      "id": "va15",
-      "question": "Choose the word most similar in meaning to ANCIENT:",
-      "options": [
-        "Concise",
-        "Accumulating",
-        "Antique",
-        "Control"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of ancient is antique."
-    },
-    {
-      "id": "va16",
-      "question": "Choose the word most similar in meaning to APPARENT:",
-      "options": [
-        "Frank",
-        "Diminish",
-        "Lasting",
-        "Obvious"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of apparent is obvious."
-    },
-    {
-      "id": "va17",
-      "question": "Choose the word most similar in meaning to ARDUOUS:",
-      "options": [
-        "Difficult",
-        "Competent",
-        "Committed",
-        "Raise"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of arduous is difficult."
-    },
-    {
-      "id": "va18",
-      "question": "Choose the word most similar in meaning to ARTICULATE:",
-      "options": [
-        "Stop",
-        "Eloquent",
-        "Lacking",
-        "Remove"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of articulate is eloquent."
-    },
-    {
-      "id": "va19",
-      "question": "Choose the word most similar in meaning to AUDACIOUS:",
-      "options": [
-        "Logical",
-        "Intentional",
-        "Bold",
-        "Appear"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of audacious is bold."
-    },
-    {
-      "id": "va20",
-      "question": "Choose the word most similar in meaning to AUTHENTIC:",
-      "options": [
-        "Merciful",
-        "Challenging",
-        "Distinguished",
-        "Genuine"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of authentic is genuine."
-    },
-    {
-      "id": "va21",
-      "question": "Choose the word most similar in meaning to BENEVOLENT:",
-      "options": [
-        "Kind",
-        "Thorough",
-        "Obtain",
-        "Highlight"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of benevolent is kind."
-    },
-    {
-      "id": "va22",
-      "question": "Choose the word most similar in meaning to BRIEF:",
-      "options": [
-        "Brief",
-        "Concise",
-        "Discourage",
-        "Meet"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of brief is concise."
-    },
-    {
-      "id": "va23",
-      "question": "Choose the word most similar in meaning to CANDID:",
-      "options": [
-        "Agree",
-        "Industrious",
-        "Frank",
-        "Withstand"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of candid is frank."
-    },
-    {
-      "id": "va24",
       "question": "Choose the word most similar in meaning to CAPABLE:",
       "options": [
-        "Noticeable",
-        "Reduce",
-        "Improve",
-        "Competent"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of capable is competent."
-    },
-    {
-      "id": "va25",
-      "question": "Choose the word most similar in meaning to CEASE:",
-      "options": [
-        "Stop",
-        "Believable",
-        "Tactful",
-        "Fair"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of cease is stop."
-    },
-    {
-      "id": "va26",
-      "question": "Choose the word most similar in meaning to COHERENT:",
-      "options": [
-        "Essential",
-        "Logical",
-        "Varied",
-        "Vital"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of coherent is logical."
-    },
-    {
-      "id": "va27",
-      "question": "Choose the word most similar in meaning to COMPASSIONATE:",
-      "options": [
-        "Accumulating",
-        "Control",
-        "Merciful",
-        "Clear"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of compassionate is merciful."
-    },
-    {
-      "id": "va28",
-      "question": "Choose the word most similar in meaning to COMPREHENSIVE:",
-      "options": [
-        "Diminish",
-        "Lasting",
-        "Overstate",
-        "Thorough"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of comprehensive is thorough."
-    },
-    {
-      "id": "va29",
-      "question": "Choose the word most similar in meaning to CONCISE:",
-      "options": [
-        "Brief",
-        "Committed",
-        "Raise",
-        "Omit"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of concise is brief."
-    },
-    {
-      "id": "va30",
-      "question": "Choose the word most similar in meaning to CONCUR:",
-      "options": [
-        "Lacking",
-        "Agree",
-        "Remove",
-        "Enlarge"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of concur is agree."
-    },
-    {
-      "id": "va31",
-      "question": "Choose the word most similar in meaning to CONSPICUOUS:",
-      "options": [
-        "Intentional",
-        "Appear",
-        "Noticeable",
-        "Clear"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of conspicuous is noticeable."
-    },
-    {
-      "id": "va32",
-      "question": "Choose the word most similar in meaning to CREDIBLE:",
-      "options": [
-        "Challenging",
-        "Distinguished",
-        "Ease",
-        "Believable"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of credible is believable."
-    },
-    {
-      "id": "va33",
-      "question": "Choose the word most similar in meaning to CRUCIAL:",
-      "options": [
-        "Essential",
-        "Obtain",
-        "Highlight",
-        "Practical"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of crucial is essential."
-    },
-    {
-      "id": "va34",
-      "question": "Choose the word most similar in meaning to CUMULATIVE:",
-      "options": [
-        "Discourage",
-        "Accumulating",
-        "Meet",
-        "Thrive"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of cumulative is accumulating."
-    },
-    {
-      "id": "va35",
-      "question": "Choose the word most similar in meaning to DECREASE:",
-      "options": [
-        "Industrious",
-        "Withstand",
-        "Diminish",
-        "Intimidating"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of decrease is diminish."
-    },
-    {
-      "id": "va36",
-      "question": "Choose the word most similar in meaning to DEDICATED:",
-      "options": [
-        "Reduce",
-        "Improve",
-        "Thrifty",
-        "Committed"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of dedicated is committed."
-    },
-    {
-      "id": "va37",
-      "question": "Choose the word most similar in meaning to DEFICIENT:",
-      "options": [
-        "Lacking",
-        "Tactful",
-        "Fair",
-        "Basic"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of deficient is lacking."
-    },
-    {
-      "id": "va38",
-      "question": "Choose the word most similar in meaning to DELIBERATE:",
-      "options": [
-        "Varied",
-        "Intentional",
-        "Vital",
-        "Bountiful"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of deliberate is intentional."
-    },
-    {
-      "id": "va39",
-      "question": "Choose the word most similar in meaning to DEMANDING:",
-      "options": [
-        "Control",
-        "Clear",
-        "Challenging",
-        "Authentic"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of demanding is challenging."
-    },
-    {
-      "id": "va40",
-      "question": "Choose the word most similar in meaning to DERIVE:",
-      "options": [
-        "Lasting",
-        "Overstate",
-        "Coordinated",
-        "Obtain"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of derive is obtain."
-    },
-    {
-      "id": "va41",
-      "question": "Choose the word most similar in meaning to DETER:",
-      "options": [
-        "Discourage",
-        "Raise",
-        "Omit",
-        "Reluctant"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of deter is discourage."
-    },
-    {
-      "id": "va42",
-      "question": "Choose the word most similar in meaning to DILIGENT:",
-      "options": [
-        "Remove",
-        "Industrious",
-        "Enlarge",
-        "Recognize"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of diligent is industrious."
-    },
-    {
-      "id": "va43",
-      "question": "Choose the word most similar in meaning to DIMINISH:",
-      "options": [
-        "Appear",
-        "Clear",
-        "Reduce",
-        "Neutral"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of diminish is reduce."
-    },
-    {
-      "id": "va44",
-      "question": "Choose the word most similar in meaning to DISCREET:",
-      "options": [
-        "Distinguished",
-        "Ease",
-        "Execute",
-        "Tactful"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of discreet is tactful."
-    },
-    {
-      "id": "va45",
-      "question": "Choose the word most similar in meaning to DIVERSE:",
-      "options": [
-        "Varied",
-        "Highlight",
-        "Practical",
-        "Suggest"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of diverse is varied."
-    },
-    {
-      "id": "va46",
-      "question": "Choose the word most similar in meaning to DOMINATE:",
-      "options": [
-        "Meet",
-        "Control",
-        "Thrive",
-        "Motivation"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of dominate is control."
-    },
-    {
-      "id": "va47",
-      "question": "Choose the word most similar in meaning to DURABLE:",
-      "options": [
-        "Withstand",
-        "Intimidating",
-        "Lasting",
-        "Disposed"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of durable is lasting."
-    },
-    {
-      "id": "va48",
-      "question": "Choose the word most similar in meaning to ELEVATE:",
-      "options": [
-        "Improve",
-        "Thrifty",
-        "Comprehensive",
-        "Raise"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of elevate is raise."
-    },
-    {
-      "id": "va49",
-      "question": "Choose the word most similar in meaning to ELIMINATE:",
-      "options": [
-        "Remove",
-        "Fair",
-        "Basic",
-        "Show"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of eliminate is remove."
-    },
-    {
-      "id": "va50",
-      "question": "Choose the word most similar in meaning to EMERGE:",
-      "options": [
-        "Vital",
-        "Appear",
-        "Bountiful",
-        "Essential"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of emerge is appear."
-    },
-    {
-      "id": "va51",
-      "question": "Choose the word most similar in meaning to EMINENT:",
-      "options": [
-        "Clear",
-        "Authentic",
-        "Distinguished",
-        "Unavoidable"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of eminent is distinguished."
-    },
-    {
-      "id": "va52",
-      "question": "Choose the word most similar in meaning to EMPHASIZE:",
-      "options": [
-        "Overstate",
-        "Coordinated",
-        "Original",
-        "Highlight"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of emphasize is highlight."
-    },
-    {
-      "id": "va53",
-      "question": "Choose the word most similar in meaning to ENCOUNTER:",
-      "options": [
-        "Meet",
-        "Omit",
-        "Reluctant",
-        "Perceptive"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of encounter is meet."
-    },
-    {
-      "id": "va54",
-      "question": "Choose the word most similar in meaning to ENDURE:",
-      "options": [
-        "Enlarge",
-        "Withstand",
-        "Recognize",
-        "Honesty"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of endure is withstand."
-    },
-    {
-      "id": "va55",
-      "question": "Choose the word most similar in meaning to ENHANCE:",
-      "options": [
-        "Clear",
-        "Neutral",
-        "Improve",
-        "Extreme"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of enhance is improve."
-    },
-    {
-      "id": "va56",
-      "question": "Choose the word most similar in meaning to EQUITABLE:",
-      "options": [
-        "Ease",
-        "Execute",
-        "Defend",
-        "Fair"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of equitable is fair."
-    },
-    {
-      "id": "va57",
-      "question": "Choose the word most similar in meaning to ESSENTIAL:",
-      "options": [
-        "Vital",
-        "Practical",
-        "Suggest",
-        "Eager"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of essential is vital."
-    },
-    {
-      "id": "va58",
-      "question": "Choose the word most similar in meaning to EVIDENT:",
-      "options": [
-        "Thrive",
-        "Clear",
-        "Motivation",
-        "Lawful"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of evident is clear."
-    },
-    {
-      "id": "va59",
-      "question": "Choose the word most similar in meaning to EXAGGERATE:",
-      "options": [
-        "Intimidating",
-        "Disposed",
-        "Overstate",
-        "Tolerant"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of exaggerate is overstate."
-    },
-    {
-      "id": "va60",
-      "question": "Choose the word most similar in meaning to EXCLUDE:",
-      "options": [
-        "Thrifty",
-        "Comprehensive",
-        "Careful",
-        "Omit"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of exclude is omit."
-    },
-    {
-      "id": "va61",
-      "question": "Choose the word most similar in meaning to EXPAND:",
-      "options": [
-        "Enlarge",
-        "Basic",
-        "Show",
-        "Alter"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of expand is enlarge."
-    },
-    {
-      "id": "va62",
-      "question": "Choose the word most similar in meaning to EXPLICIT:",
-      "options": [
-        "Bountiful",
-        "Clear",
-        "Essential",
-        "Remarkable"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of explicit is clear."
-    },
-    {
-      "id": "va63",
-      "question": "Choose the word most similar in meaning to FACILITATE:",
-      "options": [
-        "Authentic",
-        "Unavoidable",
-        "Ease",
-        "Unbiased"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of facilitate is ease."
-    },
-    {
-      "id": "va64",
-      "question": "Choose the word most similar in meaning to FEASIBLE:",
-      "options": [
-        "Coordinated",
-        "Original",
-        "Acquire",
-        "Practical"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of feasible is practical."
-    },
-    {
-      "id": "va65",
-      "question": "Choose the word most similar in meaning to FLOURISH:",
-      "options": [
-        "Thrive",
-        "Reluctant",
-        "Perceptive",
-        "Improve"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of flourish is thrive."
-    },
-    {
-      "id": "va66",
-      "question": "Choose the word most similar in meaning to FORMIDABLE:",
-      "options": [
-        "Recognize",
-        "Intimidating",
-        "Honesty",
-        "Engage"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of formidable is intimidating."
-    },
-    {
-      "id": "va67",
-      "question": "Choose the word most similar in meaning to FRUGAL:",
-      "options": [
-        "Neutral",
-        "Extreme",
-        "Thrifty",
-        "Discern"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of frugal is thrifty."
-    },
-    {
-      "id": "va68",
-      "question": "Choose the word most similar in meaning to FUNDAMENTAL:",
-      "options": [
-        "Execute",
-        "Defend",
-        "Tenacious",
-        "Basic"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of fundamental is basic."
-    },
-    {
-      "id": "va69",
-      "question": "Choose the word most similar in meaning to GENEROUS:",
-      "options": [
-        "Bountiful",
-        "Suggest",
-        "Eager",
-        "Believable"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of generous is bountiful."
-    },
-    {
-      "id": "va70",
-      "question": "Choose the word most similar in meaning to GENUINE:",
-      "options": [
-        "Motivation",
-        "Authentic",
-        "Lawful",
-        "Exact"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of genuine is authentic."
-    },
-    {
-      "id": "va71",
-      "question": "Choose the word most similar in meaning to HARMONIOUS:",
-      "options": [
-        "Disposed",
-        "Tolerant",
-        "Coordinated",
-        "Initial"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of harmonious is coordinated."
-    },
-    {
-      "id": "va72",
-      "question": "Choose the word most similar in meaning to HESITANT:",
-      "options": [
-        "Comprehensive",
-        "Careful",
-        "Notable",
-        "Reluctant"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of hesitant is reluctant."
-    },
-    {
-      "id": "va73",
-      "question": "Choose the word most similar in meaning to IDENTIFY:",
-      "options": [
-        "Recognize",
-        "Show",
-        "Alter",
-        "Thrive"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of identify is recognize."
-    },
-    {
-      "id": "va74",
-      "question": "Choose the word most similar in meaning to IMPARTIAL:",
-      "options": [
-        "Essential",
-        "Neutral",
-        "Remarkable",
-        "Wise"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of impartial is neutral."
-    },
-    {
-      "id": "va75",
-      "question": "Choose the word most similar in meaning to IMPLEMENT:",
-      "options": [
-        "Unavoidable",
-        "Unbiased",
-        "Execute",
-        "Dependable"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of implement is execute."
-    },
-    {
-      "id": "va76",
-      "question": "Choose the word most similar in meaning to IMPLY:",
-      "options": [
-        "Original",
-        "Acquire",
-        "Settle",
-        "Suggest"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of imply is suggest."
-    },
-    {
-      "id": "va77",
-      "question": "Choose the word most similar in meaning to INCENTIVE:",
-      "options": [
-        "Motivation",
-        "Perceptive",
-        "Improve",
-        "Limit"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of incentive is motivation."
-    },
-    {
-      "id": "va78",
-      "question": "Choose the word most similar in meaning to INCLINED:",
-      "options": [
-        "Honesty",
-        "Disposed",
-        "Engage",
-        "Plentiful"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of inclined is disposed."
-    },
-    {
-      "id": "va79",
-      "question": "Choose the word most similar in meaning to INCLUSIVE:",
-      "options": [
-        "Extreme",
-        "Discern",
-        "Comprehensive",
-        "Precise"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of inclusive is comprehensive."
-    },
-    {
-      "id": "va80",
-      "question": "Choose the word most similar in meaning to INDICATE:",
-      "options": [
-        "Defend",
-        "Tenacious",
-        "Flexible",
-        "Show"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of indicate is show."
-    },
-    {
-      "id": "va81",
-      "question": "Choose the word most similar in meaning to INDISPENSABLE:",
-      "options": [
-        "Essential",
-        "Eager",
-        "Believable",
-        "Skilled"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of indispensable is essential."
-    },
-    {
-      "id": "va82",
-      "question": "Choose the word most similar in meaning to INEVITABLE:",
-      "options": [
-        "Lawful",
-        "Unavoidable",
-        "Exact",
-        "Unfavorable"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of inevitable is unavoidable."
-    },
-    {
-      "id": "va83",
-      "question": "Choose the word most similar in meaning to INNOVATIVE:",
-      "options": [
-        "Tolerant",
-        "Initial",
-        "Original",
-        "Friendly"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of innovative is original."
-    },
-    {
-      "id": "va84",
-      "question": "Choose the word most similar in meaning to INSIGHTFUL:",
-      "options": [
-        "Careful",
-        "Notable",
-        "Antique",
-        "Perceptive"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of insightful is perceptive."
-    },
-    {
-      "id": "va85",
-      "question": "Choose the word most similar in meaning to INTEGRITY:",
-      "options": [
-        "Honesty",
-        "Alter",
-        "Thrive",
-        "Obvious"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of integrity is honesty."
-    },
-    {
-      "id": "va86",
-      "question": "Choose the word most similar in meaning to INTENSE:",
-      "options": [
-        "Remarkable",
-        "Extreme",
-        "Wise",
-        "Difficult"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of intense is extreme."
-    },
-    {
-      "id": "va87",
-      "question": "Choose the word most similar in meaning to JUSTIFY:",
-      "options": [
-        "Unbiased",
-        "Dependable",
-        "Defend",
-        "Eloquent"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of justify is defend."
-    },
-    {
-      "id": "va88",
-      "question": "Choose the word most similar in meaning to KEEN:",
-      "options": [
-        "Acquire",
-        "Settle",
-        "Bold",
-        "Eager"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of keen is eager."
-    },
-    {
-      "id": "va89",
-      "question": "Choose the word most similar in meaning to LEGITIMATE:",
-      "options": [
-        "Lawful",
-        "Improve",
-        "Limit",
-        "Genuine"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of legitimate is lawful."
-    },
-    {
-      "id": "va90",
-      "question": "Choose the word most similar in meaning to LENIENT:",
-      "options": [
-        "Engage",
-        "Tolerant",
-        "Plentiful",
-        "Kind"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of lenient is tolerant."
-    },
-    {
-      "id": "va91",
-      "question": "Choose the word most similar in meaning to METICULOUS:",
-      "options": [
-        "Discern",
-        "Precise",
-        "Careful",
-        "Concise"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of meticulous is careful."
-    },
-    {
-      "id": "va92",
-      "question": "Choose the word most similar in meaning to MODIFY:",
-      "options": [
-        "Tenacious",
-        "Flexible",
-        "Frank",
-        "Alter"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of modify is alter."
-    },
-    {
-      "id": "va93",
-      "question": "Choose the word most similar in meaning to NOTABLE:",
-      "options": [
-        "Remarkable",
-        "Believable",
-        "Skilled",
-        "Competent"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of notable is remarkable."
-    },
-    {
-      "id": "va94",
-      "question": "Choose the word most similar in meaning to OBJECTIVE:",
-      "options": [
-        "Exact",
-        "Unbiased",
-        "Unfavorable",
-        "Stop"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of objective is unbiased."
-    },
-    {
-      "id": "va95",
-      "question": "Choose the word most similar in meaning to OBTAIN:",
-      "options": [
-        "Initial",
-        "Friendly",
-        "Acquire",
-        "Logical"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of obtain is acquire."
-    },
-    {
-      "id": "va96",
-      "question": "Choose the word most similar in meaning to OPTIMIZE:",
-      "options": [
-        "Notable",
-        "Antique",
-        "Merciful",
-        "Improve"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of optimize is improve."
-    },
-    {
-      "id": "va97",
-      "question": "Choose the word most similar in meaning to PARTICIPATE:",
-      "options": [
-        "Engage",
-        "Thrive",
-        "Obvious",
-        "Thorough"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of participate is engage."
-    },
-    {
-      "id": "va98",
-      "question": "Choose the word most similar in meaning to PERCEIVE:",
-      "options": [
-        "Wise",
-        "Discern",
-        "Difficult",
-        "Brief"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of perceive is discern."
-    },
-    {
-      "id": "va99",
-      "question": "Choose the word most similar in meaning to PERSISTENT:",
-      "options": [
-        "Dependable",
-        "Eloquent",
-        "Tenacious",
-        "Agree"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of persistent is tenacious."
-    },
-    {
-      "id": "va100",
-      "question": "Choose the word most similar in meaning to PLAUSIBLE:",
-      "options": [
-        "Settle",
-        "Bold",
-        "Noticeable",
-        "Believable"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of plausible is believable."
-    },
-    {
-      "id": "va101",
-      "question": "Choose the word most similar in meaning to PRECISE:",
-      "options": [
-        "Exact",
-        "Limit",
-        "Genuine",
-        "Believable"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of precise is exact."
-    },
-    {
-      "id": "va102",
-      "question": "Choose the word most similar in meaning to PRELIMINARY:",
-      "options": [
-        "Plentiful",
-        "Initial",
-        "Kind",
-        "Essential"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of preliminary is initial."
-    },
-    {
-      "id": "va103",
-      "question": "Choose the word most similar in meaning to PROMINENT:",
-      "options": [
-        "Precise",
-        "Concise",
-        "Notable",
-        "Accumulating"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of prominent is notable."
-    },
-    {
-      "id": "va104",
-      "question": "Choose the word most similar in meaning to PROSPER:",
-      "options": [
-        "Flexible",
-        "Frank",
-        "Diminish",
-        "Thrive"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of prosper is thrive."
-    },
-    {
-      "id": "va105",
-      "question": "Choose the word most similar in meaning to PRUDENT:",
-      "options": [
-        "Wise",
-        "Skilled",
         "Competent",
-        "Committed"
-      ],
-      "correctIndex": 0,
-      "explanation": "The closest synonym of prudent is wise."
-    },
-    {
-      "id": "va106",
-      "question": "Choose the word most similar in meaning to RELIABLE:",
-      "options": [
-        "Unfavorable",
-        "Dependable",
-        "Stop",
-        "Lacking"
-      ],
-      "correctIndex": 1,
-      "explanation": "The closest synonym of reliable is dependable."
-    },
-    {
-      "id": "va107",
-      "question": "Choose the word most similar in meaning to RESOLVE:",
-      "options": [
-        "Friendly",
-        "Logical",
-        "Settle",
-        "Intentional"
-      ],
-      "correctIndex": 2,
-      "explanation": "The closest synonym of resolve is settle."
-    },
-    {
-      "id": "va108",
-      "question": "Choose the word most similar in meaning to RESTRICT:",
-      "options": [
-        "Antique",
-        "Merciful",
-        "Challenging",
-        "Limit"
-      ],
-      "correctIndex": 3,
-      "explanation": "The closest synonym of restrict is limit."
-    },
-    {
-      "id": "va109",
-      "question": "Choose the word opposite in meaning to ABUNDANT:",
-      "options": [
-        "Fake",
-        "Unreliable",
-        "Scarce",
-        "Submit"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of abundant is scarce."
-    },
-    {
-      "id": "va110",
-      "question": "Choose the word opposite in meaning to ACCURATE:",
-      "options": [
-        "Malevolent",
-        "Trivial",
-        "Fragile",
-        "Inexact"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of accurate is inexact."
-    },
-    {
-      "id": "va111",
-      "question": "Choose the word opposite in meaning to ADAPTABLE:",
-      "options": [
-        "Rigid",
-        "Lengthy",
-        "Decreasing",
-        "Lower"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of adaptable is rigid."
-    },
-    {
-      "id": "va112",
-      "question": "Choose the word opposite in meaning to ADEPT:",
-      "options": [
-        "Deceptive",
+        "Unskilled",
         "Inept",
-        "Increase",
-        "Introduce"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of adept is inept."
-    },
-    {
-      "id": "va113",
-      "question": "Choose the word opposite in meaning to ADVERSE:",
-      "options": [
-        "Incapable",
-        "Indifferent",
-        "Favorable",
-        "Disappear"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of adverse is favorable."
-    },
-    {
-      "id": "va114",
-      "question": "Choose the word opposite in meaning to AMIABLE:",
-      "options": [
-        "Begin",
-        "Adequate",
-        "Obscure",
-        "Hostile"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of amiable is hostile."
-    },
-    {
-      "id": "va115",
-      "question": "Choose the word opposite in meaning to ANCIENT:",
-      "options": [
-        "Modern",
-        "Incoherent",
-        "Accidental",
-        "Downplay"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of ancient is modern."
-    },
-    {
-      "id": "va116",
-      "question": "Choose the word opposite in meaning to APPARENT:",
-      "options": [
-        "Cruel",
-        "Hidden",
-        "Undemanding",
-        "Avoid"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of apparent is hidden."
-    },
-    {
-      "id": "va117",
-      "question": "Choose the word opposite in meaning to ARDUOUS:",
-      "options": [
-        "Limited",
-        "Lose",
-        "Easy",
-        "Surrender"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of arduous is easy."
-    },
-    {
-      "id": "va118",
-      "question": "Choose the word opposite in meaning to ARTICULATE:",
-      "options": [
-        "Verbose",
-        "Encourage",
-        "Impair",
-        "Inarticulate"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of articulate is inarticulate."
-    },
-    {
-      "id": "va119",
-      "question": "Choose the word opposite in meaning to AUDACIOUS:",
-      "options": [
-        "Timid",
-        "Disagree",
-        "Lazy",
-        "Unfair"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of audacious is timid."
-    },
-    {
-      "id": "va120",
-      "question": "Choose the word opposite in meaning to AUTHENTIC:",
-      "options": [
-        "Inconspicuous",
-        "Fake",
-        "Expand",
-        "Optional"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of authentic is fake."
-    },
-    {
-      "id": "va121",
-      "question": "Choose the word opposite in meaning to BENEVOLENT:",
-      "options": [
-        "Unreliable",
-        "Indiscreet",
-        "Malevolent",
-        "Ambiguous"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of benevolent is malevolent."
-    },
-    {
-      "id": "va122",
-      "question": "Choose the word opposite in meaning to BRIEF:",
-      "options": [
-        "Trivial",
-        "Uniform",
-        "Understate",
-        "Lengthy"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of brief is lengthy."
-    },
-    {
-      "id": "va123",
-      "question": "Choose the word opposite in meaning to CANDID:",
-      "options": [
-        "Deceptive",
-        "Decreasing",
-        "Submit",
-        "Include"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of candid is deceptive."
-    },
-    {
-      "id": "va124",
-      "question": "Choose the word opposite in meaning to CAPABLE:",
-      "options": [
-        "Increase",
-        "Incapable",
-        "Fragile",
-        "Contract"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of capable is incapable."
-    },
-    {
-      "id": "va125",
-      "question": "Choose the word opposite in meaning to CEASE:",
-      "options": [
-        "Indifferent",
-        "Lower",
-        "Begin",
-        "Vague"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of cease is begin."
-    },
-    {
-      "id": "va126",
-      "question": "Choose the word opposite in meaning to COHERENT:",
-      "options": [
-        "Adequate",
-        "Introduce",
-        "Hinder",
-        "Incoherent"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of coherent is incoherent."
-    },
-    {
-      "id": "va127",
-      "question": "Choose the word opposite in meaning to COMPASSIONATE:",
-      "options": [
-        "Cruel",
-        "Accidental",
-        "Disappear",
-        "Impossible"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of compassionate is cruel."
-    },
-    {
-      "id": "va128",
-      "question": "Choose the word opposite in meaning to COMPREHENSIVE:",
-      "options": [
-        "Undemanding",
-        "Limited",
-        "Obscure",
-        "Decline"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of comprehensive is limited."
-    },
-    {
-      "id": "va129",
-      "question": "Choose the word opposite in meaning to CONCISE:",
-      "options": [
-        "Lose",
-        "Downplay",
-        "Verbose",
-        "Harmless"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of concise is verbose."
-    },
-    {
-      "id": "va130",
-      "question": "Choose the word opposite in meaning to CONCUR:",
-      "options": [
-        "Encourage",
-        "Avoid",
-        "Wasteful",
-        "Disagree"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of concur is disagree."
-    },
-    {
-      "id": "va131",
-      "question": "Choose the word opposite in meaning to CONSPICUOUS:",
-      "options": [
-        "Inconspicuous",
-        "Lazy",
-        "Surrender",
-        "Peripheral"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of conspicuous is inconspicuous."
-    },
-    {
-      "id": "va132",
-      "question": "Choose the word opposite in meaning to CREDIBLE:",
-      "options": [
-        "Expand",
-        "Unreliable",
-        "Impair",
-        "Stingy"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of credible is unreliable."
-    },
-    {
-      "id": "va133",
-      "question": "Choose the word opposite in meaning to CRUCIAL:",
-      "options": [
-        "Indiscreet",
-        "Unfair",
-        "Trivial",
-        "Fake"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of crucial is trivial."
-    },
-    {
-      "id": "va134",
-      "question": "Choose the word opposite in meaning to CUMULATIVE:",
-      "options": [
-        "Uniform",
-        "Optional",
-        "Discordant",
-        "Decreasing"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of cumulative is decreasing."
-    },
-    {
-      "id": "va135",
-      "question": "Choose the word opposite in meaning to DECREASE:",
-      "options": [
-        "Increase",
-        "Submit",
-        "Ambiguous",
-        "Eager"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of decrease is increase."
-    },
-    {
-      "id": "va136",
-      "question": "Choose the word opposite in meaning to DEDICATED:",
-      "options": [
-        "Fragile",
-        "Indifferent",
-        "Understate",
-        "Ignore"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of dedicated is indifferent."
-    },
-    {
-      "id": "va137",
-      "question": "Choose the word opposite in meaning to DEFICIENT:",
-      "options": [
-        "Lower",
-        "Include",
-        "Adequate",
-        "Biased"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of deficient is adequate."
-    },
-    {
-      "id": "va138",
-      "question": "Choose the word opposite in meaning to DELIBERATE:",
-      "options": [
-        "Introduce",
-        "Contract",
-        "Abandon",
-        "Accidental"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of deliberate is accidental."
-    },
-    {
-      "id": "va139",
-      "question": "Choose the word opposite in meaning to DEMANDING:",
-      "options": [
-        "Undemanding",
-        "Disappear",
-        "Vague",
-        "State"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of demanding is undemanding."
-    },
-    {
-      "id": "va140",
-      "question": "Choose the word opposite in meaning to DERIVE:",
-      "options": [
-        "Obscure",
-        "Lose",
-        "Hinder",
-        "Deterrent"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of derive is lose."
-    },
-    {
-      "id": "va141",
-      "question": "Choose the word opposite in meaning to DETER:",
-      "options": [
-        "Downplay",
-        "Impossible",
-        "Encourage",
-        "Unwilling"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of deter is encourage."
-    },
-    {
-      "id": "va142",
-      "question": "Choose the word opposite in meaning to DILIGENT:",
-      "options": [
-        "Avoid",
-        "Decline",
-        "Exclusive",
-        "Lazy"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of diligent is lazy."
-    },
-    {
-      "id": "va143",
-      "question": "Choose the word opposite in meaning to DIMINISH:",
-      "options": [
-        "Expand",
-        "Surrender",
-        "Harmless",
-        "Conceal"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of diminish is expand."
-    },
-    {
-      "id": "va144",
-      "question": "Choose the word opposite in meaning to DISCREET:",
-      "options": [
-        "Impair",
-        "Indiscreet",
-        "Wasteful",
-        "Unnecessary"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of discreet is indiscreet."
-    },
-    {
-      "id": "va145",
-      "question": "Choose the word opposite in meaning to DIVERSE:",
-      "options": [
-        "Unfair",
-        "Peripheral",
-        "Uniform",
-        "Avoidable"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of diverse is uniform."
-    },
-    {
-      "id": "va146",
-      "question": "Choose the word opposite in meaning to DOMINATE:",
-      "options": [
-        "Optional",
-        "Stingy",
-        "Conventional",
-        "Submit"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of dominate is submit."
-    },
-    {
-      "id": "va147",
-      "question": "Choose the word opposite in meaning to DURABLE:",
-      "options": [
-        "Fragile",
-        "Ambiguous",
-        "Fake",
-        "Shallow"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of durable is fragile."
-    },
-    {
-      "id": "va148",
-      "question": "Choose the word opposite in meaning to ELEVATE:",
-      "options": [
-        "Understate",
-        "Lower",
-        "Discordant",
-        "Dishonesty"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of elevate is lower."
-    },
-    {
-      "id": "va149",
-      "question": "Choose the word opposite in meaning to ELIMINATE:",
-      "options": [
-        "Include",
-        "Eager",
-        "Introduce",
-        "Mild"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of eliminate is introduce."
-    },
-    {
-      "id": "va150",
-      "question": "Choose the word opposite in meaning to EMERGE:",
-      "options": [
-        "Contract",
-        "Ignore",
-        "Condemn",
-        "Disappear"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of emerge is disappear."
-    },
-    {
-      "id": "va151",
-      "question": "Choose the word opposite in meaning to EMINENT:",
-      "options": [
-        "Obscure",
-        "Vague",
-        "Biased",
-        "Indifferent"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of eminent is obscure."
-    },
-    {
-      "id": "va152",
-      "question": "Choose the word opposite in meaning to EMPHASIZE:",
-      "options": [
-        "Hinder",
-        "Downplay",
-        "Abandon",
-        "Illegal"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of emphasize is downplay."
-    },
-    {
-      "id": "va153",
-      "question": "Choose the word opposite in meaning to ENCOUNTER:",
-      "options": [
-        "Impossible",
-        "State",
-        "Avoid",
-        "Strict"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of encounter is avoid."
-    },
-    {
-      "id": "va154",
-      "question": "Choose the word opposite in meaning to ENDURE:",
-      "options": [
-        "Decline",
-        "Deterrent",
-        "Careless",
-        "Surrender"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of endure is surrender."
-    },
-    {
-      "id": "va155",
-      "question": "Choose the word opposite in meaning to ENHANCE:",
-      "options": [
-        "Impair",
-        "Harmless",
-        "Unwilling",
-        "Preserve"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of enhance is impair."
-    },
-    {
-      "id": "va156",
-      "question": "Choose the word opposite in meaning to EQUITABLE:",
-      "options": [
-        "Wasteful",
-        "Unfair",
-        "Exclusive",
-        "Ordinary"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of equitable is unfair."
-    },
-    {
-      "id": "va157",
-      "question": "Choose the word opposite in meaning to ESSENTIAL:",
-      "options": [
-        "Peripheral",
-        "Conceal",
-        "Optional",
-        "Subjective"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of essential is optional."
-    },
-    {
-      "id": "va158",
-      "question": "Choose the word opposite in meaning to EVIDENT:",
-      "options": [
-        "Stingy",
-        "Unnecessary",
-        "Forfeit",
-        "Ambiguous"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of evident is ambiguous."
-    },
-    {
-      "id": "va159",
-      "question": "Choose the word opposite in meaning to EXAGGERATE:",
-      "options": [
-        "Understate",
-        "Fake",
-        "Avoidable",
-        "Worsen"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of exaggerate is understate."
-    },
-    {
-      "id": "va160",
-      "question": "Choose the word opposite in meaning to EXCLUDE:",
-      "options": [
-        "Discordant",
-        "Include",
-        "Conventional",
-        "Withdraw"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of exclude is include."
-    },
-    {
-      "id": "va161",
-      "question": "Choose the word opposite in meaning to EXPAND:",
-      "options": [
-        "Eager",
-        "Shallow",
-        "Contract",
-        "Overlook"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of expand is contract."
-    },
-    {
-      "id": "va162",
-      "question": "Choose the word opposite in meaning to EXPLICIT:",
-      "options": [
-        "Ignore",
-        "Dishonesty",
-        "Quit",
-        "Vague"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of explicit is vague."
-    },
-    {
-      "id": "va163",
-      "question": "Choose the word opposite in meaning to FACILITATE:",
-      "options": [
-        "Hinder",
-        "Biased",
-        "Mild",
-        "Implausible"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of facilitate is hinder."
-    },
-    {
-      "id": "va164",
-      "question": "Choose the word opposite in meaning to FEASIBLE:",
-      "options": [
-        "Abandon",
-        "Impossible",
-        "Condemn",
-        "Vague"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of feasible is impossible."
-    },
-    {
-      "id": "va165",
-      "question": "Choose the word opposite in meaning to FLOURISH:",
-      "options": [
-        "State",
-        "Indifferent",
-        "Decline",
-        "Final"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of flourish is decline."
-    },
-    {
-      "id": "va166",
-      "question": "Choose the word opposite in meaning to FORMIDABLE:",
-      "options": [
-        "Deterrent",
-        "Illegal",
-        "Insignificant",
-        "Harmless"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of formidable is harmless."
-    },
-    {
-      "id": "va167",
-      "question": "Choose the word opposite in meaning to FRUGAL:",
-      "options": [
-        "Wasteful",
-        "Unwilling",
-        "Strict",
-        "Fail"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of frugal is wasteful."
-    },
-    {
-      "id": "va168",
-      "question": "Choose the word opposite in meaning to FUNDAMENTAL:",
-      "options": [
-        "Exclusive",
-        "Peripheral",
-        "Careless",
-        "Imprudent"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of fundamental is peripheral."
-    },
-    {
-      "id": "va169",
-      "question": "Choose the word opposite in meaning to GENEROUS:",
-      "options": [
-        "Conceal",
-        "Preserve",
-        "Stingy",
-        "Unreliable"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of generous is stingy."
-    },
-    {
-      "id": "va170",
-      "question": "Choose the word opposite in meaning to GENUINE:",
-      "options": [
-        "Unnecessary",
-        "Ordinary",
-        "Complicate",
-        "Fake"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of genuine is fake."
-    },
-    {
-      "id": "va171",
-      "question": "Choose the word opposite in meaning to HARMONIOUS:",
-      "options": [
-        "Discordant",
-        "Avoidable",
-        "Subjective",
-        "Expand"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of harmonious is discordant."
-    },
-    {
-      "id": "va172",
-      "question": "Choose the word opposite in meaning to HESITANT:",
-      "options": [
-        "Conventional",
-        "Eager",
-        "Forfeit",
-        "Scarce"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of hesitant is eager."
-    },
-    {
-      "id": "va173",
-      "question": "Choose the word opposite in meaning to IDENTIFY:",
-      "options": [
-        "Shallow",
-        "Worsen",
-        "Ignore",
-        "Inexact"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of identify is ignore."
-    },
-    {
-      "id": "va174",
-      "question": "Choose the word opposite in meaning to IMPARTIAL:",
-      "options": [
-        "Dishonesty",
-        "Withdraw",
-        "Rigid",
-        "Biased"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of impartial is biased."
-    },
-    {
-      "id": "va175",
-      "question": "Choose the word opposite in meaning to IMPLEMENT:",
-      "options": [
-        "Abandon",
-        "Mild",
-        "Overlook",
-        "Inept"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of implement is abandon."
-    },
-    {
-      "id": "va176",
-      "question": "Choose the word opposite in meaning to IMPLY:",
-      "options": [
-        "Condemn",
-        "State",
-        "Quit",
-        "Favorable"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of imply is state."
-    },
-    {
-      "id": "va177",
-      "question": "Choose the word opposite in meaning to INCENTIVE:",
-      "options": [
-        "Indifferent",
-        "Implausible",
-        "Deterrent",
-        "Hostile"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of incentive is deterrent."
-    },
-    {
-      "id": "va178",
-      "question": "Choose the word opposite in meaning to INCLINED:",
-      "options": [
-        "Illegal",
-        "Vague",
-        "Modern",
-        "Unwilling"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of inclined is unwilling."
-    },
-    {
-      "id": "va179",
-      "question": "Choose the word opposite in meaning to INCLUSIVE:",
-      "options": [
-        "Exclusive",
-        "Strict",
-        "Final",
-        "Hidden"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of inclusive is exclusive."
-    },
-    {
-      "id": "va180",
-      "question": "Choose the word opposite in meaning to INDICATE:",
-      "options": [
-        "Careless",
-        "Conceal",
-        "Insignificant",
-        "Easy"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of indicate is conceal."
-    },
-    {
-      "id": "va181",
-      "question": "Choose the word opposite in meaning to INDISPENSABLE:",
-      "options": [
-        "Preserve",
-        "Fail",
-        "Unnecessary",
-        "Inarticulate"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of indispensable is unnecessary."
-    },
-    {
-      "id": "va182",
-      "question": "Choose the word opposite in meaning to INEVITABLE:",
-      "options": [
-        "Ordinary",
-        "Imprudent",
-        "Timid",
-        "Avoidable"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of inevitable is avoidable."
-    },
-    {
-      "id": "va183",
-      "question": "Choose the word opposite in meaning to INNOVATIVE:",
-      "options": [
-        "Conventional",
-        "Subjective",
-        "Unreliable",
-        "Fake"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of innovative is conventional."
-    },
-    {
-      "id": "va184",
-      "question": "Choose the word opposite in meaning to INSIGHTFUL:",
-      "options": [
-        "Forfeit",
-        "Shallow",
-        "Complicate",
-        "Malevolent"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of insightful is shallow."
-    },
-    {
-      "id": "va185",
-      "question": "Choose the word opposite in meaning to INTEGRITY:",
-      "options": [
-        "Worsen",
-        "Expand",
-        "Dishonesty",
-        "Lengthy"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of integrity is dishonesty."
-    },
-    {
-      "id": "va186",
-      "question": "Choose the word opposite in meaning to INTENSE:",
-      "options": [
-        "Withdraw",
-        "Scarce",
-        "Deceptive",
-        "Mild"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of intense is mild."
-    },
-    {
-      "id": "va187",
-      "question": "Choose the word opposite in meaning to JUSTIFY:",
-      "options": [
-        "Condemn",
-        "Overlook",
-        "Inexact",
         "Incapable"
       ],
       "correctIndex": 0,
-      "explanation": "The opposite meaning of justify is condemn."
+      "explanation": "Capable means competent, which is the closest synonym."
     },
     {
-      "id": "va188",
-      "question": "Choose the word opposite in meaning to KEEN:",
+      "id": "va7",
+      "question": "Choose the word most similar in meaning to COHERENT:",
       "options": [
-        "Quit",
-        "Indifferent",
-        "Rigid",
-        "Begin"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of keen is indifferent."
-    },
-    {
-      "id": "va189",
-      "question": "Choose the word opposite in meaning to LEGITIMATE:",
-      "options": [
-        "Implausible",
-        "Inept",
-        "Illegal",
-        "Incoherent"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of legitimate is illegal."
-    },
-    {
-      "id": "va190",
-      "question": "Choose the word opposite in meaning to LENIENT:",
-      "options": [
-        "Vague",
-        "Favorable",
-        "Cruel",
-        "Strict"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of lenient is strict."
-    },
-    {
-      "id": "va191",
-      "question": "Choose the word opposite in meaning to METICULOUS:",
-      "options": [
-        "Careless",
-        "Final",
-        "Hostile",
-        "Limited"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of meticulous is careless."
-    },
-    {
-      "id": "va192",
-      "question": "Choose the word opposite in meaning to MODIFY:",
-      "options": [
-        "Insignificant",
-        "Preserve",
-        "Modern",
-        "Verbose"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of modify is preserve."
-    },
-    {
-      "id": "va193",
-      "question": "Choose the word opposite in meaning to NOTABLE:",
-      "options": [
-        "Fail",
-        "Hidden",
-        "Ordinary",
-        "Disagree"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of notable is ordinary."
-    },
-    {
-      "id": "va194",
-      "question": "Choose the word opposite in meaning to OBJECTIVE:",
-      "options": [
-        "Imprudent",
-        "Easy",
-        "Inconspicuous",
-        "Subjective"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of objective is subjective."
-    },
-    {
-      "id": "va195",
-      "question": "Choose the word opposite in meaning to OBTAIN:",
-      "options": [
-        "Forfeit",
-        "Unreliable",
-        "Inarticulate",
-        "Trivial"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of obtain is forfeit."
-    },
-    {
-      "id": "va196",
-      "question": "Choose the word opposite in meaning to OPTIMIZE:",
-      "options": [
-        "Complicate",
-        "Worsen",
-        "Timid",
-        "Trivial"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of optimize is worsen."
-    },
-    {
-      "id": "va197",
-      "question": "Choose the word opposite in meaning to PARTICIPATE:",
-      "options": [
-        "Expand",
-        "Fake",
-        "Withdraw",
-        "Decreasing"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of participate is withdraw."
-    },
-    {
-      "id": "va198",
-      "question": "Choose the word opposite in meaning to PERCEIVE:",
-      "options": [
-        "Scarce",
-        "Malevolent",
-        "Increase",
-        "Overlook"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of perceive is overlook."
-    },
-    {
-      "id": "va199",
-      "question": "Choose the word opposite in meaning to PERSISTENT:",
-      "options": [
-        "Quit",
-        "Inexact",
-        "Lengthy",
-        "Indifferent"
-      ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of persistent is quit."
-    },
-    {
-      "id": "va200",
-      "question": "Choose the word opposite in meaning to PLAUSIBLE:",
-      "options": [
-        "Rigid",
-        "Implausible",
-        "Deceptive",
-        "Adequate"
-      ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of plausible is implausible."
-    },
-    {
-      "id": "va201",
-      "question": "Choose the word opposite in meaning to PRECISE:",
-      "options": [
-        "Inept",
-        "Incapable",
-        "Vague",
-        "Accidental"
-      ],
-      "correctIndex": 2,
-      "explanation": "The opposite meaning of precise is vague."
-    },
-    {
-      "id": "va202",
-      "question": "Choose the word opposite in meaning to PRELIMINARY:",
-      "options": [
-        "Favorable",
-        "Begin",
-        "Undemanding",
-        "Final"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of preliminary is final."
-    },
-    {
-      "id": "va203",
-      "question": "Choose the word opposite in meaning to PROMINENT:",
-      "options": [
-        "Insignificant",
-        "Hostile",
+        "Confused",
+        "Disjointed",
         "Incoherent",
-        "Lose"
+        "Logical"
       ],
-      "correctIndex": 0,
-      "explanation": "The opposite meaning of prominent is insignificant."
+      "correctIndex": 3,
+      "explanation": "Coherent means logical, which is the closest synonym."
     },
     {
-      "id": "va204",
-      "question": "Choose the word opposite in meaning to PROSPER:",
+      "id": "va8",
+      "question": "Choose the word most similar in meaning to CONCISE:",
       "options": [
-        "Modern",
-        "Fail",
-        "Cruel",
-        "Encourage"
+        "Wordy",
+        "Verbose",
+        "Lengthy",
+        "Brief"
       ],
-      "correctIndex": 1,
-      "explanation": "The opposite meaning of prosper is fail."
+      "correctIndex": 3,
+      "explanation": "Concise means brief, which is the closest synonym."
     },
     {
-      "id": "va205",
-      "question": "Choose the word opposite in meaning to PRUDENT:",
+      "id": "va9",
+      "question": "Choose the word most similar in meaning to CREDIBLE:",
       "options": [
-        "Hidden",
-        "Limited",
-        "Imprudent",
+        "Doubtful",
+        "Unreliable",
+        "Implausible",
+        "Believable"
+      ],
+      "correctIndex": 3,
+      "explanation": "Credible means believable, which is the closest synonym."
+    },
+    {
+      "id": "va10",
+      "question": "Choose the word most similar in meaning to DILIGENT:",
+      "options": [
+        "Idle",
+        "Indolent",
+        "Hardworking",
         "Lazy"
       ],
       "correctIndex": 2,
-      "explanation": "The opposite meaning of prudent is imprudent."
+      "explanation": "Diligent means hardworking, which is the closest synonym."
     },
     {
-      "id": "va206",
-      "question": "Choose the word opposite in meaning to RELIABLE:",
+      "id": "va11",
+      "question": "Choose the word most similar in meaning to EMINENT:",
       "options": [
-        "Easy",
-        "Verbose",
-        "Expand",
-        "Unreliable"
-      ],
-      "correctIndex": 3,
-      "explanation": "The opposite meaning of reliable is unreliable."
-    },
-    {
-      "id": "va207",
-      "question": "Choose the word opposite in meaning to RESOLVE:",
-      "options": [
-        "Complicate",
-        "Inarticulate",
-        "Disagree",
-        "Indiscreet"
+        "Distinguished",
+        "Insignificant",
+        "Obscure",
+        "Unknown"
       ],
       "correctIndex": 0,
-      "explanation": "The opposite meaning of resolve is complicate."
+      "explanation": "Eminent means distinguished, which is the closest synonym."
     },
     {
-      "id": "va208",
-      "question": "Choose the word opposite in meaning to RESTRICT:",
+      "id": "va12",
+      "question": "Choose the word most similar in meaning to FEASIBLE:",
       "options": [
-        "Timid",
-        "Expand",
-        "Inconspicuous",
-        "Uniform"
+        "Impossible",
+        "Unfeasible",
+        "Practical",
+        "Impractical"
+      ],
+      "correctIndex": 2,
+      "explanation": "Feasible means practical, which is the closest synonym."
+    },
+    {
+      "id": "va13",
+      "question": "Choose the word most similar in meaning to GENUINE:",
+      "options": [
+        "Fake",
+        "False",
+        "Authentic",
+        "Counterfeit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genuine means authentic, which is the closest synonym."
+    },
+    {
+      "id": "va14",
+      "question": "Choose the word most similar in meaning to IMPARTIAL:",
+      "options": [
+        "Prejudiced",
+        "Partial",
+        "Neutral",
+        "Biased"
+      ],
+      "correctIndex": 2,
+      "explanation": "Impartial means neutral, which is the closest synonym."
+    },
+    {
+      "id": "va15",
+      "question": "Choose the word most similar in meaning to INNOVATIVE:",
+      "options": [
+        "Creative",
+        "Traditional",
+        "Stale",
+        "Conventional"
+      ],
+      "correctIndex": 0,
+      "explanation": "Innovative means creative, which is the closest synonym."
+    },
+    {
+      "id": "va16",
+      "question": "Choose the word most similar in meaning to METICULOUS:",
+      "options": [
+        "Careless",
+        "Sloppy",
+        "Negligent",
+        "Careful"
+      ],
+      "correctIndex": 3,
+      "explanation": "Meticulous means careful, which is the closest synonym."
+    },
+    {
+      "id": "va17",
+      "question": "Choose the word most similar in meaning to OBJECTIVE:",
+      "options": [
+        "Subjective",
+        "Unbiased",
+        "Biased",
+        "Personal"
       ],
       "correctIndex": 1,
-      "explanation": "The opposite meaning of restrict is expand."
+      "explanation": "Objective means unbiased, which is the closest synonym."
+    },
+    {
+      "id": "va18",
+      "question": "Choose the word most similar in meaning to PRUDENT:",
+      "options": [
+        "Imprudent",
+        "Foolish",
+        "Wise",
+        "Rash"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prudent means wise, which is the closest synonym."
+    },
+    {
+      "id": "va19",
+      "question": "Choose the word most similar in meaning to RELIABLE:",
+      "options": [
+        "Erratic",
+        "Unreliable",
+        "Untrustworthy",
+        "Dependable"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reliable means dependable, which is the closest synonym."
+    },
+    {
+      "id": "va20",
+      "question": "Choose the word most similar in meaning to TRANSPARENT:",
+      "options": [
+        "Opaque",
+        "Murky",
+        "Clear",
+        "Unclear"
+      ],
+      "correctIndex": 2,
+      "explanation": "Transparent means clear, which is the closest synonym."
+    },
+    {
+      "id": "va21",
+      "question": "Choose the word opposite in meaning to ABUNDANT:",
+      "options": [
+        "Copious",
+        "Plentiful",
+        "Ample",
+        "Scarce"
+      ],
+      "correctIndex": 3,
+      "explanation": "Abundant means the opposite of scarce."
+    },
+    {
+      "id": "va22",
+      "question": "Choose the word opposite in meaning to ACCURATE:",
+      "options": [
+        "Correct",
+        "Precise",
+        "Exact",
+        "Inexact"
+      ],
+      "correctIndex": 3,
+      "explanation": "Accurate means the opposite of inexact."
+    },
+    {
+      "id": "va23",
+      "question": "Choose the word opposite in meaning to ADAPTABLE:",
+      "options": [
+        "Flexible",
+        "Adjustable",
+        "Pliable",
+        "Rigid"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adaptable means the opposite of rigid."
+    },
+    {
+      "id": "va24",
+      "question": "Choose the word opposite in meaning to BENEVOLENT:",
+      "options": [
+        "Kind",
+        "Malevolent",
+        "Compassionate",
+        "Generous"
+      ],
+      "correctIndex": 1,
+      "explanation": "Benevolent means the opposite of malevolent."
+    },
+    {
+      "id": "va25",
+      "question": "Choose the word opposite in meaning to CANDID:",
+      "options": [
+        "Frank",
+        "Deceptive",
+        "Honest",
+        "Open"
+      ],
+      "correctIndex": 1,
+      "explanation": "Candid means the opposite of deceptive."
+    },
+    {
+      "id": "va26",
+      "question": "Choose the word opposite in meaning to CAPABLE:",
+      "options": [
+        "Skilled",
+        "Able",
+        "Incapable",
+        "Competent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Capable means the opposite of incapable."
+    },
+    {
+      "id": "va27",
+      "question": "Choose the word opposite in meaning to COHERENT:",
+      "options": [
+        "Incoherent",
+        "Clear",
+        "Organized",
+        "Logical"
+      ],
+      "correctIndex": 0,
+      "explanation": "Coherent means the opposite of incoherent."
+    },
+    {
+      "id": "va28",
+      "question": "Choose the word opposite in meaning to CONCISE:",
+      "options": [
+        "Verbose",
+        "Succinct",
+        "Brief",
+        "Short"
+      ],
+      "correctIndex": 0,
+      "explanation": "Concise means the opposite of verbose."
+    },
+    {
+      "id": "va29",
+      "question": "Choose the word opposite in meaning to CREDIBLE:",
+      "options": [
+        "Unreliable",
+        "Trustworthy",
+        "Credible",
+        "Believable"
+      ],
+      "correctIndex": 0,
+      "explanation": "Credible means the opposite of unreliable."
+    },
+    {
+      "id": "va30",
+      "question": "Choose the word opposite in meaning to DILIGENT:",
+      "options": [
+        "Assiduous",
+        "Hardworking",
+        "Lazy",
+        "Industrious"
+      ],
+      "correctIndex": 2,
+      "explanation": "Diligent means the opposite of lazy."
+    },
+    {
+      "id": "va31",
+      "question": "Choose the word opposite in meaning to EMINENT:",
+      "options": [
+        "Famous",
+        "Distinguished",
+        "Obscure",
+        "Prominent"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eminent means the opposite of obscure."
+    },
+    {
+      "id": "va32",
+      "question": "Choose the word opposite in meaning to FEASIBLE:",
+      "options": [
+        "Impractical",
+        "Possible",
+        "Viable",
+        "Practical"
+      ],
+      "correctIndex": 0,
+      "explanation": "Feasible means the opposite of impractical."
+    },
+    {
+      "id": "va33",
+      "question": "Choose the word opposite in meaning to GENUINE:",
+      "options": [
+        "Genuine",
+        "Fake",
+        "Real",
+        "Authentic"
+      ],
+      "correctIndex": 1,
+      "explanation": "Genuine means the opposite of fake."
+    },
+    {
+      "id": "va34",
+      "question": "Choose the word opposite in meaning to IMPARTIAL:",
+      "options": [
+        "Fair",
+        "Impartial",
+        "Biased",
+        "Neutral"
+      ],
+      "correctIndex": 2,
+      "explanation": "Impartial means the opposite of biased."
+    },
+    {
+      "id": "va35",
+      "question": "Choose the word opposite in meaning to INNOVATIVE:",
+      "options": [
+        "Creative",
+        "Conventional",
+        "Inventive",
+        "Original"
+      ],
+      "correctIndex": 1,
+      "explanation": "Innovative means the opposite of conventional."
+    },
+    {
+      "id": "va36",
+      "question": "Choose the word opposite in meaning to METICULOUS:",
+      "options": [
+        "Careful",
+        "Thorough",
+        "Careless",
+        "Precise"
+      ],
+      "correctIndex": 2,
+      "explanation": "Meticulous means the opposite of careless."
+    },
+    {
+      "id": "va37",
+      "question": "Choose the word opposite in meaning to OBJECTIVE:",
+      "options": [
+        "Neutral",
+        "Subjective",
+        "Unbiased",
+        "Impartial"
+      ],
+      "correctIndex": 1,
+      "explanation": "Objective means the opposite of subjective."
+    },
+    {
+      "id": "va38",
+      "question": "Choose the word opposite in meaning to PRUDENT:",
+      "options": [
+        "Wise",
+        "Judicious",
+        "Cautious",
+        "Rash"
+      ],
+      "correctIndex": 3,
+      "explanation": "Prudent means the opposite of rash."
+    },
+    {
+      "id": "va39",
+      "question": "Choose the word opposite in meaning to RELIABLE:",
+      "options": [
+        "Trustworthy",
+        "Unreliable",
+        "Dependable",
+        "Reliable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reliable means the opposite of unreliable."
+    },
+    {
+      "id": "va40",
+      "question": "Choose the word opposite in meaning to TRANSPARENT:",
+      "options": [
+        "Clear",
+        "Opaque",
+        "Lucid",
+        "Transparent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Transparent means the opposite of opaque."
+    },
+    {
+      "id": "va41",
+      "question": "Book is to Library as Painting is to:",
+      "options": [
+        "Painting : Museum",
+        "Museum : Painting",
+        "Book : Library",
+        "Library : Book"
+      ],
+      "correctIndex": 0,
+      "explanation": "Museum stores paintings like library stores books."
+    },
+    {
+      "id": "va42",
+      "question": "Doctor is to Hospital as Teacher is to:",
+      "options": [
+        "Doctor : Hospital",
+        "School : Teacher",
+        "Teacher : School",
+        "Hospital : Doctor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Teacher works in school like doctor in hospital."
+    },
+    {
+      "id": "va43",
+      "question": "Eye is to See as Ear is to:",
+      "options": [
+        "Eye : See",
+        "Hear : Ear",
+        "Ear : Hear",
+        "See : Eye"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ear is used to hear like eye to see."
+    },
+    {
+      "id": "va44",
+      "question": "Knife is to Cut as Pen is to:",
+      "options": [
+        "Knife : Cut",
+        "Write : Pen",
+        "Cut : Knife",
+        "Pen : Write"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pen is used to write like knife to cut."
+    },
+    {
+      "id": "va45",
+      "question": "Key is to Lock as Password is to:",
+      "options": [
+        "Computer : Password",
+        "Password : Computer",
+        "Key : Lock",
+        "Lock : Key"
+      ],
+      "correctIndex": 1,
+      "explanation": "Password unlocks computer like key unlocks lock."
+    },
+    {
+      "id": "va46",
+      "question": "Leaf is to Tree as Brick is to:",
+      "options": [
+        "Leaf : Tree",
+        "Wall : Brick",
+        "Tree : Leaf",
+        "Brick : Wall"
+      ],
+      "correctIndex": 3,
+      "explanation": "Brick is part of wall like leaf is part of tree."
+    },
+    {
+      "id": "va47",
+      "question": "Ocean is to Water as Desert is to:",
+      "options": [
+        "Water : Ocean",
+        "Sand : Desert",
+        "Ocean : Water",
+        "Desert : Sand"
+      ],
+      "correctIndex": 3,
+      "explanation": "Desert is full of sand like ocean of water."
+    },
+    {
+      "id": "va48",
+      "question": "Pencil is to Write as Brush is to:",
+      "options": [
+        "Pencil : Write",
+        "Write : Pencil",
+        "Brush : Paint",
+        "Paint : Brush"
+      ],
+      "correctIndex": 2,
+      "explanation": "Brush is used to paint like pencil to write."
+    },
+    {
+      "id": "va49",
+      "question": "River is to Valley as Road is to:",
+      "options": [
+        "River : Valley",
+        "Valley : River",
+        "Road : Mountain",
+        "Mountain : Road"
+      ],
+      "correctIndex": 2,
+      "explanation": "Road goes through mountain like river through valley."
+    },
+    {
+      "id": "va50",
+      "question": "Seed is to Plant as Egg is to:",
+      "options": [
+        "Egg : Bird",
+        "Plant : Seed",
+        "Seed : Plant",
+        "Bird : Egg"
+      ],
+      "correctIndex": 0,
+      "explanation": "Egg hatches into bird like seed grows into plant."
+    },
+    {
+      "id": "va51",
+      "question": "Ship is to Water as Airplane is to:",
+      "options": [
+        "Air : Airplane",
+        "Water : Ship",
+        "Ship : Water",
+        "Airplane : Air"
+      ],
+      "correctIndex": 3,
+      "explanation": "Airplane flies in air like ship sails in water."
+    },
+    {
+      "id": "va52",
+      "question": "Sword is to Warrior as Pen is to:",
+      "options": [
+        "Warrior : Sword",
+        "Sword : Warrior",
+        "Writer : Pen",
+        "Pen : Writer"
+      ],
+      "correctIndex": 3,
+      "explanation": "Pen is tool of writer like sword of warrior."
+    },
+    {
+      "id": "va53",
+      "question": "Teacher is to Classroom as Chef is to:",
+      "options": [
+        "Teacher : Classroom",
+        "Kitchen : Chef",
+        "Chef : Kitchen",
+        "Classroom : Teacher"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chef works in kitchen like teacher in classroom."
+    },
+    {
+      "id": "va54",
+      "question": "Tree is to Forest as Fish is to:",
+      "options": [
+        "Tree : Forest",
+        "School : Fish",
+        "Fish : School",
+        "Forest : Tree"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fish live in school like tree in forest."
+    },
+    {
+      "id": "va55",
+      "question": "Wheel is to Car as Sail is to:",
+      "options": [
+        "Car : Wheel",
+        "Sail : Boat",
+        "Wheel : Car",
+        "Boat : Sail"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sail propels boat like wheel propels car."
+    },
+    {
+      "id": "va56",
+      "question": "Wing is to Bird as Fin is to:",
+      "options": [
+        "Fin : Fish",
+        "Bird : Wing",
+        "Wing : Bird",
+        "Fish : Fin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fin helps fish swim like wing helps bird fly."
+    },
+    {
+      "id": "va57",
+      "question": "Word is to Sentence as Note is to:",
+      "options": [
+        "Sentence : Word",
+        "Word : Sentence",
+        "Note : Melody",
+        "Melody : Note"
+      ],
+      "correctIndex": 2,
+      "explanation": "Note forms melody like word forms sentence."
+    },
+    {
+      "id": "va58",
+      "question": "Writer is to Book as Painter is to:",
+      "options": [
+        "Painter : Canvas",
+        "Book : Writer",
+        "Writer : Book",
+        "Canvas : Painter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Painter creates on canvas like writer on book."
+    },
+    {
+      "id": "va59",
+      "question": "Year is to Century as Day is to:",
+      "options": [
+        "Year : Century",
+        "Century : Year",
+        "Week : Day",
+        "Day : Week"
+      ],
+      "correctIndex": 3,
+      "explanation": "Day is part of week like year of century."
+    },
+    {
+      "id": "va60",
+      "question": "Zoo is to Animals as Library is to:",
+      "options": [
+        "Zoo : Animals",
+        "Books : Library",
+        "Animals : Zoo",
+        "Library : Books"
+      ],
+      "correctIndex": 3,
+      "explanation": "Library houses books like zoo houses animals."
+    },
+    {
+      "id": "va61",
+      "question": "The committee decided to _____ the proposal due to lack of funds.",
+      "options": [
+        "reject",
+        "defer",
+        "implement",
+        "accept"
+      ],
+      "correctIndex": 1,
+      "explanation": "Defer means to postpone."
+    },
+    {
+      "id": "va62",
+      "question": "His _____ behavior at the party embarrassed everyone.",
+      "options": [
+        "erratic",
+        "calm",
+        "normal",
+        "polite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Erratic means unpredictable."
+    },
+    {
+      "id": "va63",
+      "question": "The scientist's discovery was a _____ breakthrough in medicine.",
+      "options": [
+        "major",
+        "insignificant",
+        "trivial",
+        "minor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Major means significant."
+    },
+    {
+      "id": "va64",
+      "question": "She showed great _____ in handling the crisis.",
+      "options": [
+        "composure",
+        "confusion",
+        "excitement",
+        "anger"
+      ],
+      "correctIndex": 0,
+      "explanation": "Composure means calmness."
+    },
+    {
+      "id": "va65",
+      "question": "The _____ of the new policy needs careful consideration.",
+      "options": [
+        "benefits",
+        "features",
+        "implications",
+        "costs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Implications mean consequences."
+    },
+    {
+      "id": "va66",
+      "question": "His speech was full of _____ that captivated the audience.",
+      "options": [
+        "facts",
+        "jokes",
+        "rhetoric",
+        "stories"
+      ],
+      "correctIndex": 2,
+      "explanation": "Rhetoric means persuasive language."
+    },
+    {
+      "id": "va67",
+      "question": "The _____ of the storm caused widespread damage.",
+      "options": [
+        "gentleness",
+        "mildness",
+        "calmness",
+        "ferocity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ferocity means violence."
+    },
+    {
+      "id": "va68",
+      "question": "They reached a _____ agreement after long negotiations.",
+      "options": [
+        "one-sided",
+        "unilateral",
+        "biased",
+        "mutual"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mutual means shared."
+    },
+    {
+      "id": "va69",
+      "question": "The artist's work was characterized by its _____ style.",
+      "options": [
+        "eclectic",
+        "uniform",
+        "consistent",
+        "traditional"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eclectic means diverse."
+    },
+    {
+      "id": "va70",
+      "question": "The _____ of the evidence led to his acquittal.",
+      "options": [
+        "insufficiency",
+        "abundance",
+        "sufficiency",
+        "plenty"
+      ],
+      "correctIndex": 0,
+      "explanation": "Insufficiency means lack."
+    },
+    {
+      "id": "va71",
+      "question": "She displayed _____ courage in the face of danger.",
+      "options": [
+        "usual",
+        "ordinary",
+        "common",
+        "remarkable"
+      ],
+      "correctIndex": 3,
+      "explanation": "Remarkable means extraordinary."
+    },
+    {
+      "id": "va72",
+      "question": "The _____ of the novel kept readers engaged.",
+      "options": [
+        "clarity",
+        "simplicity",
+        "intrigue",
+        "obviousness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Intrigue means mystery."
+    },
+    {
+      "id": "va73",
+      "question": "His _____ to the problem was innovative.",
+      "options": [
+        "solution",
+        "response",
+        "answer",
+        "approach"
+      ],
+      "correctIndex": 3,
+      "explanation": "Approach means method."
+    },
+    {
+      "id": "va74",
+      "question": "The _____ of the landscape was breathtaking.",
+      "options": [
+        "ordinariness",
+        "simplicity",
+        "plainness",
+        "majesty"
+      ],
+      "correctIndex": 3,
+      "explanation": "Majesty means grandeur."
+    },
+    {
+      "id": "va75",
+      "question": "They showed _____ in their decision-making.",
+      "options": [
+        "rashness",
+        "hastiness",
+        "prudence",
+        "carelessness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Prudence means wisdom."
+    },
+    {
+      "id": "va76",
+      "question": "The _____ of the music was soothing.",
+      "options": [
+        "noise",
+        "discord",
+        "chaos",
+        "cadence"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cadence means rhythm."
+    },
+    {
+      "id": "va77",
+      "question": "His _____ was evident in his meticulous work.",
+      "options": [
+        "sloppiness",
+        "negligence",
+        "carelessness",
+        "precision"
+      ],
+      "correctIndex": 3,
+      "explanation": "Precision means accuracy."
+    },
+    {
+      "id": "va78",
+      "question": "The _____ of the situation required immediate action.",
+      "options": [
+        "calmness",
+        "urgency",
+        "leisure",
+        "relaxation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Urgency means importance."
+    },
+    {
+      "id": "va79",
+      "question": "She possessed a _____ intellect that impressed all.",
+      "options": [
+        "inactive",
+        "dull",
+        "keen",
+        "slow"
+      ],
+      "correctIndex": 2,
+      "explanation": "Keen means sharp."
+    },
+    {
+      "id": "va80",
+      "question": "The _____ of the speech inspired the crowd.",
+      "options": [
+        "stammering",
+        "hesitation",
+        "eloquence",
+        "incoherence"
+      ],
+      "correctIndex": 2,
+      "explanation": "Eloquence means fluent speech."
+    },
+    {
+      "id": "va81",
+      "question": "Spot the error in: Each of the students have submitted their assignments.",
+      "options": [
+        "has",
+        "are",
+        "is",
+        "were"
+      ],
+      "correctIndex": 0,
+      "explanation": "Subject-verb agreement: Each is singular."
+    },
+    {
+      "id": "va82",
+      "question": "Spot the error in: Neither the manager nor the employees was happy with the decision.",
+      "options": [
+        "were",
+        "are",
+        "has",
+        "is"
+      ],
+      "correctIndex": 0,
+      "explanation": "Neither...nor takes plural verb."
+    },
+    {
+      "id": "va83",
+      "question": "Spot the error in: The committee are divided on the issue.",
+      "options": [
+        "was",
+        "is",
+        "has",
+        "were"
+      ],
+      "correctIndex": 1,
+      "explanation": "Committee is singular."
+    },
+    {
+      "id": "va84",
+      "question": "Spot the error in: One of the boys have lost his book.",
+      "options": [
+        "had",
+        "has",
+        "have",
+        "having"
+      ],
+      "correctIndex": 1,
+      "explanation": "One of takes singular verb."
+    },
+    {
+      "id": "va85",
+      "question": "Spot the error in: The number of applicants are increasing.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "correctIndex": 2,
+      "explanation": "Number is singular."
+    },
+    {
+      "id": "va86",
+      "question": "Spot the error in: The jury were unanimous in their verdict.",
+      "options": [
+        "are",
+        "has",
+        "was",
+        "is"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jury is singular."
+    },
+    {
+      "id": "va87",
+      "question": "Spot the error in: Either of the roads lead to the city.",
+      "options": [
+        "led",
+        "lead",
+        "leading",
+        "leads"
+      ],
+      "correctIndex": 3,
+      "explanation": "Either is singular."
+    },
+    {
+      "id": "va88",
+      "question": "Spot the error in: The data has been analyzed.",
+      "options": [
+        "having",
+        "had",
+        "has",
+        "have"
+      ],
+      "correctIndex": 3,
+      "explanation": "Data is plural."
+    },
+    {
+      "id": "va89",
+      "question": "Spot the error in: The criteria for selection is clear.",
+      "options": [
+        "are",
+        "were",
+        "was",
+        "has"
+      ],
+      "correctIndex": 0,
+      "explanation": "Criteria is plural."
+    },
+    {
+      "id": "va90",
+      "question": "Spot the error in: The phenomena was observed.",
+      "options": [
+        "were",
+        "is",
+        "has",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phenomena is plural."
+    },
+    {
+      "id": "va91",
+      "question": "Spot the error in: He don't like apples.",
+      "options": [
+        "didn't",
+        "doesn't",
+        "doesn't",
+        "do"
+      ],
+      "correctIndex": 1,
+      "explanation": "He takes doesn't."
+    },
+    {
+      "id": "va92",
+      "question": "Spot the error in: She have been working here.",
+      "options": [
+        "had",
+        "have",
+        "having",
+        "has"
+      ],
+      "correctIndex": 3,
+      "explanation": "She takes has."
+    },
+    {
+      "id": "va93",
+      "question": "Spot the error in: They was present.",
+      "options": [
+        "were",
+        "has",
+        "is",
+        "are"
+      ],
+      "correctIndex": 0,
+      "explanation": "They takes were."
+    },
+    {
+      "id": "va94",
+      "question": "Spot the error in: I am taller than him.",
+      "options": [
+        "he",
+        "his",
+        "himself",
+        "him"
+      ],
+      "correctIndex": 0,
+      "explanation": "Than takes nominative case."
+    },
+    {
+      "id": "va95",
+      "question": "Spot the error in: This is the house which I live.",
+      "options": [
+        "who",
+        "whom",
+        "that",
+        "where"
+      ],
+      "correctIndex": 3,
+      "explanation": "For place, use where."
+    },
+    {
+      "id": "va96",
+      "question": "Spot the error in: He is senior than me.",
+      "options": [
+        "by",
+        "to",
+        "from",
+        "at"
+      ],
+      "correctIndex": 1,
+      "explanation": "Senior takes to."
+    },
+    {
+      "id": "va97",
+      "question": "Spot the error in: She said me that she was coming.",
+      "options": [
+        "for",
+        "at",
+        "by",
+        "to"
+      ],
+      "correctIndex": 3,
+      "explanation": "Said takes to."
+    },
+    {
+      "id": "va98",
+      "question": "Spot the error in: I am used to swim.",
+      "options": [
+        "swim",
+        "swimming",
+        "swims",
+        "swam"
+      ],
+      "correctIndex": 1,
+      "explanation": "Used to takes gerund."
+    },
+    {
+      "id": "va99",
+      "question": "Spot the error in: He is fond of reading.",
+      "options": [
+        "to",
+        "for",
+        "by",
+        "at"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fond of takes of."
+    },
+    {
+      "id": "va100",
+      "question": "Spot the error in: The meeting is on 5th July, 2023.",
+      "options": [
+        "July 5th, 2023",
+        "July 5, 2023",
+        "2023, July 5",
+        "5 July, 2023"
+      ],
+      "correctIndex": 1,
+      "explanation": "Date format."
+    },
+    {
+      "id": "va101",
+      "question": "One word for: A person who studies the stars",
+      "options": [
+        "Astronomer",
+        "Astrologer",
+        "Geologist",
+        "Meteorologist"
+      ],
+      "correctIndex": 0,
+      "explanation": "Astronomer means a person who studies the stars."
+    },
+    {
+      "id": "va102",
+      "question": "One word for: Fear of heights",
+      "options": [
+        "Agoraphobia",
+        "Hydrophobia",
+        "Claustrophobia",
+        "Acrophobia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Acrophobia means fear of heights."
+    },
+    {
+      "id": "va103",
+      "question": "One word for: A place where bees are kept",
+      "options": [
+        "Apiary",
+        "Terrarium",
+        "Aviary",
+        "Aquarium"
+      ],
+      "correctIndex": 0,
+      "explanation": "Apiary means a place where bees are kept."
+    },
+    {
+      "id": "va104",
+      "question": "One word for: Study of ancient civilizations",
+      "options": [
+        "Anthropology",
+        "Ethnology",
+        "Paleontology",
+        "Archaeology"
+      ],
+      "correctIndex": 3,
+      "explanation": "Archaeology means study of ancient civilizations."
+    },
+    {
+      "id": "va105",
+      "question": "One word for: A government by the people",
+      "options": [
+        "Oligarchy",
+        "Democracy",
+        "Theocracy",
+        "Monarchy"
+      ],
+      "correctIndex": 1,
+      "explanation": "Democracy means a government by the people."
+    },
+    {
+      "id": "va106",
+      "question": "One word for: A person who writes for newspapers",
+      "options": [
+        "Publisher",
+        "Printer",
+        "Editor",
+        "Journalist"
+      ],
+      "correctIndex": 3,
+      "explanation": "Journalist means a person who writes for newspapers."
+    },
+    {
+      "id": "va107",
+      "question": "One word for: The study of the mind",
+      "options": [
+        "Psychiatry",
+        "Neurology",
+        "Sociology",
+        "Psychology"
+      ],
+      "correctIndex": 3,
+      "explanation": "Psychology means the study of the mind."
+    },
+    {
+      "id": "va108",
+      "question": "One word for: A word that sounds the same as another",
+      "options": [
+        "Synonym",
+        "Homonym",
+        "Homophone",
+        "Antonym"
+      ],
+      "correctIndex": 1,
+      "explanation": "Homonym means a word that sounds the same as another."
+    },
+    {
+      "id": "va109",
+      "question": "One word for: A person who designs buildings",
+      "options": [
+        "Architect",
+        "Contractor",
+        "Engineer",
+        "Surveyor"
+      ],
+      "correctIndex": 0,
+      "explanation": "Architect means a person who designs buildings."
+    },
+    {
+      "id": "va110",
+      "question": "One word for: The science of plants",
+      "options": [
+        "Horticulture",
+        "Botany",
+        "Zoology",
+        "Ecology"
+      ],
+      "correctIndex": 1,
+      "explanation": "Botany means the science of plants."
+    },
+    {
+      "id": "va111",
+      "question": "One word for: A speech delivered without preparation",
+      "options": [
+        "Impromptu",
+        "Ad-lib",
+        "Spontaneous",
+        "Extempore"
+      ],
+      "correctIndex": 0,
+      "explanation": "Impromptu means a speech delivered without preparation."
+    },
+    {
+      "id": "va112",
+      "question": "One word for: A person who loves books",
+      "options": [
+        "Audiophile",
+        "Philatelist",
+        "Numismatist",
+        "Bibliophile"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bibliophile means a person who loves books."
+    },
+    {
+      "id": "va113",
+      "question": "One word for: The art of beautiful handwriting",
+      "options": [
+        "Calligraphy",
+        "Chirography",
+        "Graphology",
+        "Typography"
+      ],
+      "correctIndex": 0,
+      "explanation": "Calligraphy means the art of beautiful handwriting."
+    },
+    {
+      "id": "va114",
+      "question": "One word for: A disease that affects many people",
+      "options": [
+        "Epidemic",
+        "Sporadic",
+        "Pandemic",
+        "Endemic"
+      ],
+      "correctIndex": 0,
+      "explanation": "Epidemic means a disease that affects many people."
+    },
+    {
+      "id": "va115",
+      "question": "One word for: A person who speaks for others",
+      "options": [
+        "Spokesperson",
+        "Arbiter",
+        "Facilitator",
+        "Mediator"
+      ],
+      "correctIndex": 0,
+      "explanation": "Spokesperson means a person who speaks for others."
+    },
+    {
+      "id": "va116",
+      "question": "One word for: The study of earthquakes",
+      "options": [
+        "Geology",
+        "Volcanology",
+        "Seismology",
+        "Meteorology"
+      ],
+      "correctIndex": 2,
+      "explanation": "Seismology means the study of earthquakes."
+    },
+    {
+      "id": "va117",
+      "question": "One word for: A group of three leaders",
+      "options": [
+        "Triumvirate",
+        "Duarchy",
+        "Oligarchy",
+        "Plutocracy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Triumvirate means a group of three leaders."
+    },
+    {
+      "id": "va118",
+      "question": "One word for: A person who collects stamps",
+      "options": [
+        "Bibliophile",
+        "Audiophile",
+        "Philatelist",
+        "Numismatist"
+      ],
+      "correctIndex": 2,
+      "explanation": "Philatelist means a person who collects stamps."
+    },
+    {
+      "id": "va119",
+      "question": "One word for: The science of heredity",
+      "options": [
+        "Evolution",
+        "Ecology",
+        "Genetics",
+        "Eugenics"
+      ],
+      "correctIndex": 2,
+      "explanation": "Genetics means the science of heredity."
+    },
+    {
+      "id": "va120",
+      "question": "One word for: A place where ships are built",
+      "options": [
+        "Dockyard",
+        "Port",
+        "Shipyard",
+        "Harbor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shipyard means a place where ships are built."
+    },
+    {
+      "id": "va121",
+      "question": "What does the idiom 'To hit the nail on the head' mean?",
+      "options": [
+        "To make a mistake",
+        "To be precise",
+        "To do something exactly right",
+        "To be confused"
+      ],
+      "correctIndex": 2,
+      "explanation": "'To hit the nail on the head' means to do something exactly right."
+    },
+    {
+      "id": "va122",
+      "question": "What does the idiom 'Bite the bullet' mean?",
+      "options": [
+        "To avoid responsibility",
+        "To face a difficult situation bravely",
+        "To complain",
+        "To give up"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bite the bullet' means to face a difficult situation bravely."
+    },
+    {
+      "id": "va123",
+      "question": "What does the idiom 'Break the ice' mean?",
+      "options": [
+        "To initiate conversation in a social setting",
+        "To cause trouble",
+        "To be silent",
+        "To end a friendship"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Break the ice' means to initiate conversation in a social setting."
+    },
+    {
+      "id": "va124",
+      "question": "What does the idiom 'Burn the midnight oil' mean?",
+      "options": [
+        "To sleep early",
+        "To relax",
+        "To waste time",
+        "To work late into the night"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Burn the midnight oil' means to work late into the night."
+    },
+    {
+      "id": "va125",
+      "question": "What does the idiom 'Cry over spilt milk' mean?",
+      "options": [
+        "To worry about something that has already happened",
+        "To ignore problems",
+        "To celebrate success",
+        "To be happy"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cry over spilt milk' means to worry about something that has already happened."
+    },
+    {
+      "id": "va126",
+      "question": "What does the idiom 'Hit the books' mean?",
+      "options": [
+        "To play sports",
+        "To watch TV",
+        "To study hard",
+        "To eat food"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Hit the books' means to study hard."
+    },
+    {
+      "id": "va127",
+      "question": "What does the idiom 'Kick the bucket' mean?",
+      "options": [
+        "To die",
+        "To travel",
+        "To argue",
+        "To dance"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Kick the bucket' means to die."
+    },
+    {
+      "id": "va128",
+      "question": "What does the idiom 'Let the cat out of the bag' mean?",
+      "options": [
+        "To tell a lie",
+        "To hide something",
+        "To reveal a secret",
+        "To keep quiet"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Let the cat out of the bag' means to reveal a secret."
+    },
+    {
+      "id": "va129",
+      "question": "What does the idiom 'Piece of cake' mean?",
+      "options": [
+        "Something very easy",
+        "Something expensive",
+        "Something difficult",
+        "Something tasty"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Piece of cake' means something very easy."
+    },
+    {
+      "id": "va130",
+      "question": "What does the idiom 'Pull someone's leg' mean?",
+      "options": [
+        "To tease or joke with someone",
+        "To fight",
+        "To ignore",
+        "To help someone"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pull someone's leg' means to tease or joke with someone."
+    },
+    {
+      "id": "va131",
+      "question": "What does the idiom 'Spill the beans' mean?",
+      "options": [
+        "To clean",
+        "To cook",
+        "To reveal secret information",
+        "To hide"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Spill the beans' means to reveal secret information."
+    },
+    {
+      "id": "va132",
+      "question": "What does the idiom 'Take the bull by the horns' mean?",
+      "options": [
+        "To procrastinate",
+        "To be passive",
+        "To deal with a problem directly",
+        "To avoid issues"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Take the bull by the horns' means to deal with a problem directly."
+    },
+    {
+      "id": "va133",
+      "question": "What does the idiom 'Under the weather' mean?",
+      "options": [
+        "Feeling energetic",
+        "Feeling happy",
+        "Feeling sad",
+        "Feeling ill"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Under the weather' means feeling ill."
+    },
+    {
+      "id": "va134",
+      "question": "What does the idiom 'Barking up the wrong tree' mean?",
+      "options": [
+        "To succeed",
+        "To be lost",
+        "To pursue a mistaken course",
+        "To be right"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Barking up the wrong tree' means to pursue a mistaken course."
+    },
+    {
+      "id": "va135",
+      "question": "What does the idiom 'Burn bridges' mean?",
+      "options": [
+        "To communicate",
+        "To build friendships",
+        "To destroy relationships",
+        "To travel"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Burn bridges' means to destroy relationships."
+    },
+    {
+      "id": "va136",
+      "question": "What does the idiom 'Cost an arm and a leg' mean?",
+      "options": [
+        "To be valuable",
+        "To be cheap",
+        "To be very expensive",
+        "To be free"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Cost an arm and a leg' means to be very expensive."
+    },
+    {
+      "id": "va137",
+      "question": "What does the idiom 'Cut corners' mean?",
+      "options": [
+        "To be generous",
+        "To be thorough",
+        "To be careful",
+        "To do something poorly to save time or money"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Cut corners' means to do something poorly to save time or money."
+    },
+    {
+      "id": "va138",
+      "question": "What does the idiom 'Hit the sack' mean?",
+      "options": [
+        "To exercise",
+        "To work",
+        "To go to bed",
+        "To eat"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Hit the sack' means to go to bed."
+    },
+    {
+      "id": "va139",
+      "question": "What does the idiom 'In hot water' mean?",
+      "options": [
+        "In comfort",
+        "In happiness",
+        "In relaxation",
+        "In trouble"
+      ],
+      "correctIndex": 3,
+      "explanation": "'In hot water' means in trouble."
+    },
+    {
+      "id": "va140",
+      "question": "What does the idiom 'Jump on the bandwagon' mean?",
+      "options": [
+        "To ignore",
+        "To join a popular trend",
+        "To oppose",
+        "To lead"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Jump on the bandwagon' means to join a popular trend."
+    },
+    {
+      "id": "va141",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Accomodate",
+        "Acomodate",
+        "Acommodate",
+        "Accommodate"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is Accommodate."
+    },
+    {
+      "id": "va142",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Embaras",
+        "Embarass",
+        "Embarrass",
+        "Embarras"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is Embarrass."
+    },
+    {
+      "id": "va143",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Separete",
+        "Sepperate",
+        "Seperate",
+        "Separate"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct spelling is Separate."
+    },
+    {
+      "id": "va144",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Definitely",
+        "Definitly",
+        "Definatly",
+        "Definately"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is Definitely."
+    },
+    {
+      "id": "va145",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Pronounciaton",
+        "Pronunciaton",
+        "Pronunciation",
+        "Pronounciation"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is Pronunciation."
+    },
+    {
+      "id": "va146",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Exagerate",
+        "Exaggarate",
+        "Exaggerate",
+        "Exagerrate"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is Exaggerate."
+    },
+    {
+      "id": "va147",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Hierarchy",
+        "Hierachy",
+        "Heirarchy",
+        "Heirachy"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct spelling is Hierarchy."
+    },
+    {
+      "id": "va148",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        [
+          "Manoeuvre"
+        ],
+        "Manouver",
+        "Maneuver",
+        "Maneuver"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is Maneuver."
+    },
+    {
+      "id": "va149",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Rythm",
+        "Rhythm",
+        "Rithm",
+        "Rhytm"
+      ],
+      "correctIndex": 1,
+      "explanation": "The correct spelling is Rhythm."
+    },
+    {
+      "id": "va150",
+      "question": "Choose the correctly spelled word:",
+      "options": [
+        "Conscence",
+        "Consience",
+        "Conscience",
+        "Concience"
+      ],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is Conscience."
+    },
+    {
+      "id": "va151",
+      "question": "The scientist's _____ discovery revolutionized medicine.",
+      "options": [
+        "ordinary",
+        "mundane",
+        "groundbreaking",
+        "trivial"
+      ],
+      "correctIndex": 2,
+      "explanation": "Groundbreaking means innovative."
+    },
+    {
+      "id": "va152",
+      "question": "His _____ attitude made him unpopular.",
+      "options": [
+        "humble",
+        "polite",
+        "arrogant",
+        "modest"
+      ],
+      "correctIndex": 2,
+      "explanation": "Arrogant means conceited."
+    },
+    {
+      "id": "va153",
+      "question": "The _____ of the storm was terrifying.",
+      "options": [
+        "peace",
+        "fury",
+        "serenity",
+        "calm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fury means rage."
+    },
+    {
+      "id": "va154",
+      "question": "She showed _____ in her negotiations.",
+      "options": [
+        "foolishness",
+        "ignorance",
+        "stupidity",
+        "astuteness"
+      ],
+      "correctIndex": 3,
+      "explanation": "Astuteness means shrewdness."
+    },
+    {
+      "id": "va155",
+      "question": "The _____ landscape was dotted with wildflowers.",
+      "options": [
+        "arid",
+        "verdant",
+        "barren",
+        "desolate"
+      ],
+      "correctIndex": 1,
+      "explanation": "Verdant means green."
+    },
+    {
+      "id": "va156",
+      "question": "His _____ speech inspired the audience.",
+      "options": [
+        "mumbling",
+        "eloquent",
+        "stammering",
+        "incoherent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Eloquent means fluent."
+    },
+    {
+      "id": "va157",
+      "question": "The _____ of the situation demanded action.",
+      "options": [
+        "insignificance",
+        "gravity",
+        "lightness",
+        "triviality"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gravity means seriousness."
+    },
+    {
+      "id": "va158",
+      "question": "They lived in _____ poverty.",
+      "options": [
+        "comfortable",
+        "relative",
+        "moderate",
+        "abject"
+      ],
+      "correctIndex": 3,
+      "explanation": "Abject means extreme."
+    },
+    {
+      "id": "va159",
+      "question": "Her _____ beauty captivated everyone.",
+      "options": [
+        "radiant",
+        "dull",
+        "ordinary",
+        "plain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Radiant means glowing."
+    },
+    {
+      "id": "va160",
+      "question": "The _____ of the evidence was overwhelming.",
+      "options": [
+        "weight",
+        "triviality",
+        "lightness",
+        "insignificance"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weight means importance."
     }
   ]
 }
