@@ -1,0 +1,75 @@
+{
+  "questions": [
+    {
+      "id": "va1",
+      "question": "Choose the word most similar in meaning to PRAGMATIC:",
+      "options": ["Idealistic", "Practical", "Emotional", "Uncertain"],
+      "correctIndex": 1,
+      "explanation": "Pragmatic means dealing with things sensibly and realistically, which matches practical."
+    },
+    {
+      "id": "va2",
+      "question": "Choose the word opposite in meaning to DILIGENT:",
+      "options": ["Careful", "Persistent", "Lazy", "Focused"],
+      "correctIndex": 2,
+      "explanation": "Diligent means hardworking and careful, so the opposite is lazy."
+    },
+    {
+      "id": "va3",
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "Each of the officers were present at the briefing.",
+        "Each of the officers was present at the briefing.",
+        "Each of the officers are present at the briefing.",
+        "Each of the officers have been present at the briefing."
+      ],
+      "correctIndex": 1,
+      "explanation": "Each is singular, so it takes the singular verb was."
+    },
+    {
+      "id": "va4",
+      "question": "Choose the correctly spelled word:",
+      "options": ["Accomodate", "Acommodate", "Accommodate", "Acomoddate"],
+      "correctIndex": 2,
+      "explanation": "The correct spelling is accommodate."
+    },
+    {
+      "id": "va5",
+      "question": "Identify the sentence with the correct punctuation:",
+      "options": [
+        "If you complete the report, please email it to me",
+        "If you complete the report please, email it to me.",
+        "If you complete the report, please email it to me.",
+        "If you complete, the report please email it to me."
+      ],
+      "correctIndex": 2,
+      "explanation": "A comma follows the introductory clause, and the sentence ends with a period."
+    },
+    {
+      "id": "va6",
+      "question": "Choose the word that best completes the sentence: The committee arrived at a _____ decision after hours of debate.",
+      "options": ["consensus", "consensual", "consensuses", "consenting"],
+      "correctIndex": 1,
+      "explanation": "Consensual is the adjective form that correctly modifies decision."
+    },
+    {
+      "id": "va7",
+      "question": "In the sentence 'The policy had far-reaching implications,' the word implications most nearly means:",
+      "options": ["Causes", "Effects", "Intentions", "Objections"],
+      "correctIndex": 1,
+      "explanation": "Implications refers to likely effects or consequences."
+    },
+    {
+      "id": "va8",
+      "question": "Choose the sentence that uses the pronoun correctly:",
+      "options": [
+        "The final decision was made by the director and I.",
+        "The final decision was made by the director and me.",
+        "The final decision was made by me and he.",
+        "The final decision was made by I and the director."
+      ],
+      "correctIndex": 1,
+      "explanation": "After the preposition by, the objective pronoun me is required."
+    }
+  ]
+}
