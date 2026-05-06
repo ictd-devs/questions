@@ -1,0 +1,245 @@
+{
+  "category": "General Information",
+  "questions": [
+    {
+      "id": "g1",
+      "question": "Who has the authority to recommend to the President nominees for the members of the Supreme Court and judges of lower courts?",
+      "options": [
+        "Judicial and Bar Council",
+        "Integrated Bar of the Philippines",
+        "Commission on Appointments",
+        "Chief Justice of the Supreme Court"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Judicial and Bar Council recommends nominees for appointments to the judiciary."
+    },
+    {
+      "id": "g2",
+      "question": "The Constitutional Convention responsible for proposing amendments or revisions to the Constitution is called by a vote of:",
+      "options": [
+        "Speaker of the House",
+        "President",
+        "Supreme Court",
+        "Congress"
+      ],
+      "correctIndex": 3,
+      "explanation": "Congress may call a constitutional convention by a two-thirds vote."
+    },
+    {
+      "id": "g3",
+      "question": "Under the 1987 Constitution, the State is mandated to assign the highest budget priority to:",
+      "options": [
+        "Agriculture",
+        "Education",
+        "Health",
+        "National Defense"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Constitution provides that education shall receive the highest budgetary priority."
+    },
+    {
+      "id": "g4",
+      "question": "Which of the following sectors is NOT represented in the House of Representatives through the party-list system?",
+      "options": [
+        "Religious",
+        "Youth",
+        "Women",
+        "Peasant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Religious sectors are not represented under the party-list system."
+    },
+    {
+      "id": "g5",
+      "question": "The power of the President to disapprove a bill passed by Congress is called:",
+      "options": [
+        "Emergency power",
+        "Police power",
+        "Legislative power",
+        "Veto power"
+      ],
+      "correctIndex": 3,
+      "explanation": "The President may veto bills passed by Congress."
+    },
+    {
+      "id": "g6",
+      "question": "Due process of law means that the accused is:",
+      "options": [
+        "Entitled to legal counsel",
+        "Placed in solitary confinement",
+        "Represented in all stages of the trial",
+        "Presumed innocent until proven guilty"
+      ],
+      "correctIndex": 3,
+      "explanation": "An accused person is presumed innocent until proven guilty."
+    },
+    {
+      "id": "g7",
+      "question": "The rights of private individuals to secure themselves against unwarranted interference are called:",
+      "options": [
+        "Political rights",
+        "Natural rights",
+        "Civil rights",
+        "Economic and social rights"
+      ],
+      "correctIndex": 2,
+      "explanation": "Civil rights protect private individuals from unwarranted interference."
+    },
+    {
+      "id": "g8",
+      "question": "What is the retirement age of civil servants in the Philippines?",
+      "options": [
+        "60",
+        "65",
+        "70",
+        "75"
+      ],
+      "correctIndex": 1,
+      "explanation": "The compulsory retirement age for civil servants is 65."
+    },
+    {
+      "id": "g9",
+      "question": "What is the retirement age of justices in the Philippines?",
+      "options": [
+        "60",
+        "65",
+        "70",
+        "80"
+      ],
+      "correctIndex": 2,
+      "explanation": "Members of the judiciary retire at age 70."
+    },
+    {
+      "id": "g10",
+      "question": "Who determines the existence of probable cause for the issuance of a warrant of arrest?",
+      "options": [
+        "Prosecutor",
+        "Plaintiff",
+        "Judge",
+        "Police Investigator"
+      ],
+      "correctIndex": 2,
+      "explanation": "Only a judge may determine probable cause for issuing a warrant."
+    },
+    {
+      "id": "g11",
+      "question": "A member of the House of Representatives may serve for no more than how many consecutive terms?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctIndex": 1,
+      "explanation": "Members of the House may serve for three consecutive terms."
+    },
+    {
+      "id": "g12",
+      "question": "An accused person has the right to:",
+      "options": [
+        "Be informed of the accusation",
+        "Be denied counsel",
+        "Remain silent only during trial",
+        "Refuse due process"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Constitution guarantees the accused the right to be informed of the accusation."
+    },
+    {
+      "id": "g13",
+      "question": "Which branch of government interprets the law?",
+      "options": [
+        "Executive",
+        "Legislative",
+        "Judicial",
+        "Local Government"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Judicial branch interprets laws."
+    },
+    {
+      "id": "g14",
+      "question": "The right to vote and participate in public affairs belongs to:",
+      "options": [
+        "Civil rights",
+        "Political rights",
+        "Economic rights",
+        "Natural rights"
+      ],
+      "correctIndex": 1,
+      "explanation": "Political rights allow citizens to participate in government."
+    },
+    {
+      "id": "g15",
+      "question": "The House of Representatives is composed of representatives elected for a term of:",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "6 years"
+      ],
+      "correctIndex": 1,
+      "explanation": "Representatives serve for three years."
+    },
+    {
+      "id": "g16",
+      "question": "The Senate of the Philippines is composed of how many senators?",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Senate is composed of 24 senators."
+    },
+    {
+      "id": "g17",
+      "question": "The President of the Philippines serves a term of:",
+      "options": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "8 years"
+      ],
+      "correctIndex": 2,
+      "explanation": "The President serves a six-year term."
+    },
+    {
+      "id": "g18",
+      "question": "Who is considered the Commander-in-Chief of the Armed Forces of the Philippines?",
+      "options": [
+        "Chief Justice",
+        "President",
+        "Senate President",
+        "Defense Secretary"
+      ],
+      "correctIndex": 1,
+      "explanation": "The President is the Commander-in-Chief."
+    },
+    {
+      "id": "g19",
+      "question": "Which government body has the power to declare war?",
+      "options": [
+        "President",
+        "Supreme Court",
+        "Congress",
+        "COMELEC"
+      ],
+      "correctIndex": 2,
+      "explanation": "Congress has the power to declare war."
+    },
+    {
+      "id": "g20",
+      "question": "What is the supreme law of the land in the Philippines?",
+      "options": [
+        "Civil Code",
+        "Labor Code",
+        "1987 Constitution",
+        "Revised Penal Code"
+      ],
+      "correctIndex": 2,
+      "explanation": "The 1987 Constitution is the supreme law."
+    }
+  ]
+}
