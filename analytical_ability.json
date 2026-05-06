@@ -1,0 +1,1925 @@
+{
+  "category": "Analytical Ability",
+  "questions": [
+    {
+      "id": "a1",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a2",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a3",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a4",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a5",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a6",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a7",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a8",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a9",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a10",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a11",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a12",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a13",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a14",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a15",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a16",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a17",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a18",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a19",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a20",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a21",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a22",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a23",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a24",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a25",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a26",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a27",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a28",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a29",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a30",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a31",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a32",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a33",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a34",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a35",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a36",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a37",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a38",
+      "question": "All doctors are educated. Maria is a doctor. Therefore:",
+      "options": [
+        "Maria is educated",
+        "Maria is not educated",
+        "All educated people are doctors",
+        "Doctors are teachers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Maria belongs to the group of doctors, therefore she is educated."
+    },
+    {
+      "id": "a39",
+      "question": "All fruits contain seeds. Apples are fruits. Therefore:",
+      "options": [
+        "Apples contain seeds",
+        "All seeds are apples",
+        "No apples contain seeds",
+        "Apples are vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since apples are fruits and all fruits contain seeds, apples contain seeds."
+    },
+    {
+      "id": "a40",
+      "question": "All birds have wings. All sparrows are birds. Therefore:",
+      "options": [
+        "All sparrows have wings",
+        "All birds are sparrows",
+        "Some wings are birds",
+        "No sparrows have wings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Since all sparrows are birds and all birds have wings, all sparrows have wings."
+    },
+    {
+      "id": "a41",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a42",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a43",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a44",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a45",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a46",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a47",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a48",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a49",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a50",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a51",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a52",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a53",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a54",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a55",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a56",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a57",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a58",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a59",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a60",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a61",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a62",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a63",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a64",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a65",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a66",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a67",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a68",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a69",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a70",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a71",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a72",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a73",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a74",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a75",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a76",
+      "question": "If MANGO is coded as NBOIP, how is APPLE coded?",
+      "options": [
+        "BQQMF",
+        "BQQMX",
+        "AQQMF",
+        "FMQQB"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a77",
+      "question": "If DOG is coded as EPH, how is CAT coded?",
+      "options": [
+        "DBU",
+        "DBX",
+        "ABU",
+        "UBD"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a78",
+      "question": "If BOOK is coded as CPPL, how is FISH coded?",
+      "options": [
+        "GJTI",
+        "GJTX",
+        "AJTI",
+        "ITJG"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a79",
+      "question": "If TRAIN is coded as USBJO, how is PLANE coded?",
+      "options": [
+        "QMBOF",
+        "QMBOX",
+        "AMBOF",
+        "FOBMQ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a80",
+      "question": "If CHAIR is coded as DIBJS, how is TABLE coded?",
+      "options": [
+        "UBCMF",
+        "UBCMX",
+        "ABCMF",
+        "FMCBU"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is shifted forward by one letter in the alphabet."
+    },
+    {
+      "id": "a81",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a82",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a83",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a84",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a85",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a86",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a87",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a88",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a89",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a90",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a91",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a92",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a93",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a94",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a95",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a96",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a97",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a98",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a99",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a100",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a101",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a102",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a103",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a104",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a105",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a106",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a107",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a108",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a109",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a110",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a111",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a112",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a113",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a114",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a115",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a116",
+      "question": "Bird is to Fly as Fish is to ___",
+      "options": [
+        "Swim",
+        "Run",
+        "Jump",
+        "Climb"
+      ],
+      "correctIndex": 0,
+      "explanation": "Birds fly while fish swim."
+    },
+    {
+      "id": "a117",
+      "question": "Hot is to Cold as Light is to ___",
+      "options": [
+        "Dark",
+        "Heavy",
+        "Warm",
+        "Bright"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hot and cold are opposites; light and dark are opposites."
+    },
+    {
+      "id": "a118",
+      "question": "Puppy is to Dog as Kitten is to ___",
+      "options": [
+        "Cat",
+        "Tiger",
+        "Lion",
+        "Rabbit"
+      ],
+      "correctIndex": 0,
+      "explanation": "A puppy grows into a dog; a kitten grows into a cat."
+    },
+    {
+      "id": "a119",
+      "question": "Teacher is to School as Doctor is to ___",
+      "options": [
+        "Hospital",
+        "Market",
+        "Bank",
+        "Factory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Teachers work in schools; doctors work in hospitals."
+    },
+    {
+      "id": "a120",
+      "question": "Pen is to Write as Knife is to ___",
+      "options": [
+        "Cut",
+        "Cook",
+        "Draw",
+        "Eat"
+      ],
+      "correctIndex": 0,
+      "explanation": "A pen is used to write; a knife is used to cut."
+    },
+    {
+      "id": "a121",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a122",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a123",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a124",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a125",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    },
+    {
+      "id": "a126",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a127",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a128",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a129",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a130",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    },
+    {
+      "id": "a131",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a132",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a133",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a134",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a135",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    },
+    {
+      "id": "a136",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a137",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a138",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a139",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a140",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    },
+    {
+      "id": "a141",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a142",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a143",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a144",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a145",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    },
+    {
+      "id": "a146",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a147",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a148",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a149",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a150",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    },
+    {
+      "id": "a151",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a152",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a153",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a154",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a155",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    },
+    {
+      "id": "a156",
+      "question": "Which number does NOT belong in the group: 1, 4, 9, 16, 20, 25?",
+      "options": [
+        "4",
+        "9",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "All the others are perfect squares."
+    },
+    {
+      "id": "a157",
+      "question": "Ana is taller than Ben. Ben is taller than Carl. Who is the shortest?",
+      "options": [
+        "Ana",
+        "Ben",
+        "Carl",
+        "Cannot be determined"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ana > Ben > Carl, therefore Carl is the shortest."
+    },
+    {
+      "id": "a158",
+      "question": "If today is Friday, what day will it be 10 days from now?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correctIndex": 1,
+      "explanation": "10 mod 7 = 3. Three days after Friday is Monday."
+    },
+    {
+      "id": "a159",
+      "question": "Find the odd one out: Rose, Tulip, Mango, Lily",
+      "options": [
+        "Rose",
+        "Tulip",
+        "Mango",
+        "Lily"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mango is a fruit while the others are flowers."
+    },
+    {
+      "id": "a160",
+      "question": "Complete the series: AZ, BY, CX, DW, ___",
+      "options": [
+        "EV",
+        "FV",
+        "EU",
+        "FU"
+      ],
+      "correctIndex": 0,
+      "explanation": "First letters increase while second letters decrease."
+    }
+  ]
+}
