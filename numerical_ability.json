@@ -1,0 +1,2405 @@
+{
+  "category": "Numerical Ability",
+  "questions": [
+    {
+      "id": "n1",
+      "question": "What is 12% of 650?",
+      "options": [
+        "88",
+        "70",
+        "78",
+        "58"
+      ],
+      "correctIndex": 2,
+      "explanation": "12% of 650 = 12/100 × 650 = 78."
+    },
+    {
+      "id": "n2",
+      "question": "What is 18% of 900?",
+      "options": [
+        "177",
+        "174",
+        "152",
+        "162"
+      ],
+      "correctIndex": 3,
+      "explanation": "18% of 900 = 18/100 × 900 = 162."
+    },
+    {
+      "id": "n3",
+      "question": "What is 25% of 760?",
+      "options": [
+        "195",
+        "190",
+        "180",
+        "200"
+      ],
+      "correctIndex": 1,
+      "explanation": "25% of 760 = 25/100 × 760 = 190."
+    },
+    {
+      "id": "n4",
+      "question": "What is 15% of 480?",
+      "options": [
+        "52",
+        "84",
+        "72",
+        "92"
+      ],
+      "correctIndex": 2,
+      "explanation": "15% of 480 = 15/100 × 480 = 72."
+    },
+    {
+      "id": "n5",
+      "question": "What is 35% of 240?",
+      "options": [
+        "64",
+        "96",
+        "99",
+        "84"
+      ],
+      "correctIndex": 3,
+      "explanation": "35% of 240 = 35/100 × 240 = 84."
+    },
+    {
+      "id": "n6",
+      "question": "What is 40% of 375?",
+      "options": [
+        "150",
+        "155",
+        "140",
+        "170"
+      ],
+      "correctIndex": 0,
+      "explanation": "40% of 375 = 40/100 × 375 = 150."
+    },
+    {
+      "id": "n7",
+      "question": "What is 8% of 1250?",
+      "options": [
+        "95",
+        "100",
+        "90",
+        "115"
+      ],
+      "correctIndex": 1,
+      "explanation": "8% of 1250 = 8/100 × 1250 = 100."
+    },
+    {
+      "id": "n8",
+      "question": "What is 22% of 500?",
+      "options": [
+        "115",
+        "125",
+        "110",
+        "95"
+      ],
+      "correctIndex": 2,
+      "explanation": "22% of 500 = 22/100 × 500 = 110."
+    },
+    {
+      "id": "n9",
+      "question": "What is 30% of 840?",
+      "options": [
+        "237",
+        "262",
+        "252",
+        "240"
+      ],
+      "correctIndex": 2,
+      "explanation": "30% of 840 = 30/100 × 840 = 252."
+    },
+    {
+      "id": "n10",
+      "question": "What is 5% of 3600?",
+      "options": [
+        "192",
+        "165",
+        "180",
+        "200"
+      ],
+      "correctIndex": 2,
+      "explanation": "5% of 3600 = 5/100 × 3600 = 180."
+    },
+    {
+      "id": "n11",
+      "question": "What is 45% of 320?",
+      "options": [
+        "144",
+        "159",
+        "149",
+        "129"
+      ],
+      "correctIndex": 0,
+      "explanation": "45% of 320 = 45/100 × 320 = 144."
+    },
+    {
+      "id": "n12",
+      "question": "What is 60% of 150?",
+      "options": [
+        "90",
+        "110",
+        "95",
+        "70"
+      ],
+      "correctIndex": 0,
+      "explanation": "60% of 150 = 60/100 × 150 = 90."
+    },
+    {
+      "id": "n13",
+      "question": "What is 75% of 640?",
+      "options": [
+        "465",
+        "495",
+        "480",
+        "468"
+      ],
+      "correctIndex": 2,
+      "explanation": "75% of 640 = 75/100 × 640 = 480."
+    },
+    {
+      "id": "n14",
+      "question": "What is 10% of 975?",
+      "options": [
+        "107.5",
+        "87.5",
+        "97.5",
+        "85.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "10% of 975 = 10/100 × 975 = 97.5."
+    },
+    {
+      "id": "n15",
+      "question": "What is 28% of 250?",
+      "options": [
+        "50",
+        "62",
+        "70",
+        "85"
+      ],
+      "correctIndex": 2,
+      "explanation": "28% of 250 = 28/100 × 250 = 70."
+    },
+    {
+      "id": "n16",
+      "question": "What is 32% of 400?",
+      "options": [
+        "118",
+        "133",
+        "128",
+        "138"
+      ],
+      "correctIndex": 2,
+      "explanation": "32% of 400 = 32/100 × 400 = 128."
+    },
+    {
+      "id": "n17",
+      "question": "What is 55% of 260?",
+      "options": [
+        "128",
+        "153",
+        "131",
+        "143"
+      ],
+      "correctIndex": 3,
+      "explanation": "55% of 260 = 55/100 × 260 = 143."
+    },
+    {
+      "id": "n18",
+      "question": "What is 70% of 180?",
+      "options": [
+        "118",
+        "146",
+        "126",
+        "116"
+      ],
+      "correctIndex": 2,
+      "explanation": "70% of 180 = 70/100 × 180 = 126."
+    },
+    {
+      "id": "n19",
+      "question": "What is 16% of 750?",
+      "options": [
+        "108",
+        "135",
+        "105",
+        "120"
+      ],
+      "correctIndex": 3,
+      "explanation": "16% of 750 = 16/100 × 750 = 120."
+    },
+    {
+      "id": "n20",
+      "question": "What is 24% of 625?",
+      "options": [
+        "165",
+        "135",
+        "158",
+        "150"
+      ],
+      "correctIndex": 3,
+      "explanation": "24% of 625 = 24/100 × 625 = 150."
+    },
+    {
+      "id": "n21",
+      "question": "What is 36% of 450?",
+      "options": [
+        "167",
+        "177",
+        "162",
+        "147"
+      ],
+      "correctIndex": 2,
+      "explanation": "36% of 450 = 36/100 × 450 = 162."
+    },
+    {
+      "id": "n22",
+      "question": "What is 42% of 300?",
+      "options": [
+        "126",
+        "116",
+        "114",
+        "136"
+      ],
+      "correctIndex": 0,
+      "explanation": "42% of 300 = 42/100 × 300 = 126."
+    },
+    {
+      "id": "n23",
+      "question": "What is 65% of 220?",
+      "options": [
+        "123",
+        "143",
+        "135",
+        "158"
+      ],
+      "correctIndex": 1,
+      "explanation": "65% of 220 = 65/100 × 220 = 143."
+    },
+    {
+      "id": "n24",
+      "question": "What is 90% of 80?",
+      "options": [
+        "52",
+        "67",
+        "72",
+        "87"
+      ],
+      "correctIndex": 2,
+      "explanation": "90% of 80 = 90/100 × 80 = 72."
+    },
+    {
+      "id": "n25",
+      "question": "What is 14% of 850?",
+      "options": [
+        "139",
+        "104",
+        "119",
+        "124"
+      ],
+      "correctIndex": 2,
+      "explanation": "14% of 850 = 14/100 × 850 = 119."
+    },
+    {
+      "id": "n26",
+      "question": "An item costs ₱1,200 and is discounted by 15%. What is the sale price?",
+      "options": [
+        "₱960",
+        "₱970",
+        "₱1,070",
+        "₱1,020"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discount = 15% × 1200 = 180. Sale price = 1200 - 180 = ₱1,020."
+    },
+    {
+      "id": "n27",
+      "question": "An item costs ₱850 and is discounted by 20%. What is the sale price?",
+      "options": [
+        "₱730",
+        "₱680",
+        "₱630",
+        "₱637"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 20% × 850 = 170. Sale price = 850 - 170 = ₱680."
+    },
+    {
+      "id": "n28",
+      "question": "An item costs ₱2,500 and is discounted by 12%. What is the sale price?",
+      "options": [
+        "₱2,150",
+        "₱2,200",
+        "₱2,075",
+        "₱2,250"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 12% × 2500 = 300. Sale price = 2500 - 300 = ₱2,200."
+    },
+    {
+      "id": "n29",
+      "question": "An item costs ₱1,800 and is discounted by 25%. What is the sale price?",
+      "options": [
+        "₱1,400",
+        "₱1,350",
+        "₱1,260",
+        "₱1,300"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 25% × 1800 = 450. Sale price = 1800 - 450 = ₱1,350."
+    },
+    {
+      "id": "n30",
+      "question": "An item costs ₱640 and is discounted by 10%. What is the sale price?",
+      "options": [
+        "₱626",
+        "₱576",
+        "₱526",
+        "₱544"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 10% × 640 = 64. Sale price = 640 - 64 = ₱576."
+    },
+    {
+      "id": "n31",
+      "question": "An item costs ₱999 and is discounted by 30%. What is the sale price?",
+      "options": [
+        "₱749",
+        "₱649",
+        "₱699.3",
+        "₱649"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discount = 30% × 999 = 299.7. Sale price = 999 - 299.7 = ₱699.3."
+    },
+    {
+      "id": "n32",
+      "question": "An item costs ₱4,500 and is discounted by 18%. What is the sale price?",
+      "options": [
+        "₱3,740",
+        "₱3,640",
+        "₱3,465",
+        "₱3,690"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discount = 18% × 4500 = 810. Sale price = 4500 - 810 = ₱3,690."
+    },
+    {
+      "id": "n33",
+      "question": "An item costs ₱3,000 and is discounted by 35%. What is the sale price?",
+      "options": [
+        "₱1,900",
+        "₱2,000",
+        "₱1,800",
+        "₱1,950"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discount = 35% × 3000 = 1050. Sale price = 3000 - 1050 = ₱1,950."
+    },
+    {
+      "id": "n34",
+      "question": "An item costs ₱1,500 and is discounted by 40%. What is the sale price?",
+      "options": [
+        "₱850",
+        "₱900",
+        "₱825",
+        "₱950"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 40% × 1500 = 600. Sale price = 1500 - 600 = ₱900."
+    },
+    {
+      "id": "n35",
+      "question": "An item costs ₱720 and is discounted by 5%. What is the sale price?",
+      "options": [
+        "₱734",
+        "₱684",
+        "₱648",
+        "₱634"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 5% × 720 = 36. Sale price = 720 - 36 = ₱684."
+    },
+    {
+      "id": "n36",
+      "question": "An item costs ₱2,800 and is discounted by 22%. What is the sale price?",
+      "options": [
+        "₱2,044",
+        "₱2,184",
+        "₱2,234",
+        "₱2,134"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 22% × 2800 = 616. Sale price = 2800 - 616 = ₱2,184."
+    },
+    {
+      "id": "n37",
+      "question": "An item costs ₱5,600 and is discounted by 15%. What is the sale price?",
+      "options": [
+        "₱4,810",
+        "₱4,710",
+        "₱4,480",
+        "₱4,760"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discount = 15% × 5600 = 840. Sale price = 5600 - 840 = ₱4,760."
+    },
+    {
+      "id": "n38",
+      "question": "An item costs ₱1,350 and is discounted by 20%. What is the sale price?",
+      "options": [
+        "₱1,012",
+        "₱1,080",
+        "₱1,030",
+        "₱1,130"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 20% × 1350 = 270. Sale price = 1350 - 270 = ₱1,080."
+    },
+    {
+      "id": "n39",
+      "question": "An item costs ₱4,000 and is discounted by 8%. What is the sale price?",
+      "options": [
+        "₱3,680",
+        "₱3,730",
+        "₱3,630",
+        "₱3,480"
+      ],
+      "correctIndex": 0,
+      "explanation": "Discount = 8% × 4000 = 320. Sale price = 4000 - 320 = ₱3,680."
+    },
+    {
+      "id": "n40",
+      "question": "An item costs ₱950 and is discounted by 12%. What is the sale price?",
+      "options": [
+        "₱886",
+        "₱836",
+        "₱788",
+        "₱786"
+      ],
+      "correctIndex": 1,
+      "explanation": "Discount = 12% × 950 = 114. Sale price = 950 - 114 = ₱836."
+    },
+    {
+      "id": "n41",
+      "question": "An item costs ₱3,200 and is discounted by 25%. What is the sale price?",
+      "options": [
+        "₱2,240",
+        "₱2,450",
+        "₱2,400",
+        "₱2,350"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discount = 25% × 3200 = 800. Sale price = 3200 - 800 = ₱2,400."
+    },
+    {
+      "id": "n42",
+      "question": "An item costs ₱2,400 and is discounted by 30%. What is the sale price?",
+      "options": [
+        "₱1,630",
+        "₱1,560",
+        "₱1,680",
+        "₱1,730"
+      ],
+      "correctIndex": 2,
+      "explanation": "Discount = 30% × 2400 = 720. Sale price = 2400 - 720 = ₱1,680."
+    },
+    {
+      "id": "n43",
+      "question": "An item costs ₱780 and is discounted by 10%. What is the sale price?",
+      "options": [
+        "₱663",
+        "₱752",
+        "₱652",
+        "₱702"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discount = 10% × 780 = 78. Sale price = 780 - 78 = ₱702."
+    },
+    {
+      "id": "n44",
+      "question": "An item costs ₱6,000 and is discounted by 18%. What is the sale price?",
+      "options": [
+        "₱4,970",
+        "₱4,870",
+        "₱4,620",
+        "₱4,920"
+      ],
+      "correctIndex": 3,
+      "explanation": "Discount = 18% × 6000 = 1080. Sale price = 6000 - 1080 = ₱4,920."
+    },
+    {
+      "id": "n45",
+      "question": "An item costs ₱1,750 and is discounted by 16%. What is the sale price?",
+      "options": [
+        "₱1,470",
+        "₱1,520",
+        "₱1,420",
+        "₱1,382"
+      ],
+      "correctIndex": 0,
+      "explanation": "Discount = 16% × 1750 = 280. Sale price = 1750 - 280 = ₱1,470."
+    },
+    {
+      "id": "n46",
+      "question": "What is the average of 45, 60, 75, 80?",
+      "options": [
+        "63",
+        "70",
+        "67",
+        "65"
+      ],
+      "correctIndex": 3,
+      "explanation": "Average = (45 + 60 + 75 + 80) ÷ 4 = 260 ÷ 4 = 65."
+    },
+    {
+      "id": "n47",
+      "question": "What is the average of 12, 18, 24, 30?",
+      "options": [
+        "23",
+        "21",
+        "19",
+        "26"
+      ],
+      "correctIndex": 1,
+      "explanation": "Average = (12 + 18 + 24 + 30) ÷ 4 = 84 ÷ 4 = 21."
+    },
+    {
+      "id": "n48",
+      "question": "What is the average of 85, 90, 78, 87?",
+      "options": [
+        "87",
+        "85",
+        "90",
+        "83"
+      ],
+      "correctIndex": 1,
+      "explanation": "Average = (85 + 90 + 78 + 87) ÷ 4 = 340 ÷ 4 = 85."
+    },
+    {
+      "id": "n49",
+      "question": "What is the average of 100, 95, 85, 80?",
+      "options": [
+        "88",
+        "95",
+        "90",
+        "92"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average = (100 + 95 + 85 + 80) ÷ 4 = 360 ÷ 4 = 90."
+    },
+    {
+      "id": "n50",
+      "question": "What is the average of 33, 44, 55, 66?",
+      "options": [
+        "49.5",
+        "47.5",
+        "54.5",
+        "51.5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Average = (33 + 44 + 55 + 66) ÷ 4 = 198 ÷ 4 = 49.5."
+    },
+    {
+      "id": "n51",
+      "question": "What is the average of 120, 150, 180?",
+      "options": [
+        "150",
+        "148",
+        "152",
+        "155"
+      ],
+      "correctIndex": 0,
+      "explanation": "Average = (120 + 150 + 180) ÷ 3 = 450 ÷ 3 = 150."
+    },
+    {
+      "id": "n52",
+      "question": "What is the average of 25, 35, 45, 55, 65?",
+      "options": [
+        "47",
+        "43",
+        "45",
+        "50"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average = (25 + 35 + 45 + 55 + 65) ÷ 5 = 225 ÷ 5 = 45."
+    },
+    {
+      "id": "n53",
+      "question": "What is the average of 70, 72, 74, 76?",
+      "options": [
+        "78",
+        "71",
+        "75",
+        "73"
+      ],
+      "correctIndex": 3,
+      "explanation": "Average = (70 + 72 + 74 + 76) ÷ 4 = 292 ÷ 4 = 73."
+    },
+    {
+      "id": "n54",
+      "question": "What is the average of 18, 27, 36, 45?",
+      "options": [
+        "36.5",
+        "29.5",
+        "33.5",
+        "31.5"
+      ],
+      "correctIndex": 3,
+      "explanation": "Average = (18 + 27 + 36 + 45) ÷ 4 = 126 ÷ 4 = 31.5."
+    },
+    {
+      "id": "n55",
+      "question": "What is the average of 11, 22, 33, 44, 55?",
+      "options": [
+        "31",
+        "38",
+        "33",
+        "35"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average = (11 + 22 + 33 + 44 + 55) ÷ 5 = 165 ÷ 5 = 33."
+    },
+    {
+      "id": "n56",
+      "question": "What is the average of 150, 160, 170, 180?",
+      "options": [
+        "165",
+        "170",
+        "167",
+        "163"
+      ],
+      "correctIndex": 0,
+      "explanation": "Average = (150 + 160 + 170 + 180) ÷ 4 = 660 ÷ 4 = 165."
+    },
+    {
+      "id": "n57",
+      "question": "What is the average of 63, 69, 75, 81?",
+      "options": [
+        "74",
+        "72",
+        "70",
+        "77"
+      ],
+      "correctIndex": 1,
+      "explanation": "Average = (63 + 69 + 75 + 81) ÷ 4 = 288 ÷ 4 = 72."
+    },
+    {
+      "id": "n58",
+      "question": "What is the average of 40, 50, 60, 70, 80?",
+      "options": [
+        "65",
+        "60",
+        "58",
+        "62"
+      ],
+      "correctIndex": 1,
+      "explanation": "Average = (40 + 50 + 60 + 70 + 80) ÷ 5 = 300 ÷ 5 = 60."
+    },
+    {
+      "id": "n59",
+      "question": "What is the average of 14, 21, 28, 35?",
+      "options": [
+        "26.5",
+        "22.5",
+        "24.5",
+        "29.5"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average = (14 + 21 + 28 + 35) ÷ 4 = 98 ÷ 4 = 24.5."
+    },
+    {
+      "id": "n60",
+      "question": "What is the average of 88, 92, 96?",
+      "options": [
+        "90",
+        "97",
+        "92",
+        "94"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average = (88 + 92 + 96) ÷ 3 = 276 ÷ 3 = 92."
+    },
+    {
+      "id": "n61",
+      "question": "What is the average of 5, 10, 15, 20, 25?",
+      "options": [
+        "13",
+        "15",
+        "20",
+        "17"
+      ],
+      "correctIndex": 1,
+      "explanation": "Average = (5 + 10 + 15 + 20 + 25) ÷ 5 = 75 ÷ 5 = 15."
+    },
+    {
+      "id": "n62",
+      "question": "What is the average of 105, 115, 125, 135?",
+      "options": [
+        "120",
+        "118",
+        "122",
+        "125"
+      ],
+      "correctIndex": 0,
+      "explanation": "Average = (105 + 115 + 125 + 135) ÷ 4 = 480 ÷ 4 = 120."
+    },
+    {
+      "id": "n63",
+      "question": "What is the average of 32, 36, 40, 44, 48?",
+      "options": [
+        "45",
+        "42",
+        "40",
+        "38"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average = (32 + 36 + 40 + 44 + 48) ÷ 5 = 200 ÷ 5 = 40."
+    },
+    {
+      "id": "n64",
+      "question": "What is the average of 72, 84, 96?",
+      "options": [
+        "86",
+        "82",
+        "84",
+        "89"
+      ],
+      "correctIndex": 2,
+      "explanation": "Average = (72 + 84 + 96) ÷ 3 = 252 ÷ 3 = 84."
+    },
+    {
+      "id": "n65",
+      "question": "What is the average of 200, 220, 240, 260?",
+      "options": [
+        "232",
+        "228",
+        "235",
+        "230"
+      ],
+      "correctIndex": 3,
+      "explanation": "Average = (200 + 220 + 240 + 260) ÷ 4 = 920 ÷ 4 = 230."
+    },
+    {
+      "id": "n66",
+      "question": "What comes next in the series: 2, 4, 8, 16, ___?",
+      "options": [
+        "36",
+        "28",
+        "32",
+        "42"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each number is multiplied by 2."
+    },
+    {
+      "id": "n67",
+      "question": "What comes next in the series: 3, 6, 12, 24, ___?",
+      "options": [
+        "48",
+        "44",
+        "63",
+        "56"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each number is multiplied by 2."
+    },
+    {
+      "id": "n68",
+      "question": "What comes next in the series: 5, 10, 20, 40, ___?",
+      "options": [
+        "84",
+        "76",
+        "80",
+        "92"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each number is multiplied by 2."
+    },
+    {
+      "id": "n69",
+      "question": "What comes next in the series: 1, 4, 9, 16, ___?",
+      "options": [
+        "25",
+        "40",
+        "21",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "These are perfect squares: 1², 2², 3², 4², 5²."
+    },
+    {
+      "id": "n70",
+      "question": "What comes next in the series: 4, 9, 16, 25, ___?",
+      "options": [
+        "51",
+        "32",
+        "36",
+        "38"
+      ],
+      "correctIndex": 2,
+      "explanation": "These are perfect squares: 2², 3², 4², 5², 6²."
+    },
+    {
+      "id": "n71",
+      "question": "What comes next in the series: 1, 8, 27, 64, ___?",
+      "options": [
+        "137",
+        "125",
+        "124",
+        "127"
+      ],
+      "correctIndex": 1,
+      "explanation": "These are cubes: 1³, 2³, 3³, 4³, 5³."
+    },
+    {
+      "id": "n72",
+      "question": "What comes next in the series: 2, 6, 12, 20, 30, ___?",
+      "options": [
+        "54",
+        "42",
+        "44",
+        "37"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pattern is n(n+1): 1×2, 2×3, 3×4, 4×5, 5×6, 6×7."
+    },
+    {
+      "id": "n73",
+      "question": "What comes next in the series: 3, 7, 13, 21, ___?",
+      "options": [
+        "27",
+        "41",
+        "31",
+        "33"
+      ],
+      "correctIndex": 2,
+      "explanation": "Differences are +4, +6, +8, so next is +10."
+    },
+    {
+      "id": "n74",
+      "question": "What comes next in the series: 10, 20, 35, 55, ___?",
+      "options": [
+        "75",
+        "80",
+        "90",
+        "88"
+      ],
+      "correctIndex": 1,
+      "explanation": "Differences are +10, +15, +20, so next is +25."
+    },
+    {
+      "id": "n75",
+      "question": "What comes next in the series: 100, 90, 81, 73, ___?",
+      "options": [
+        "78",
+        "66",
+        "68",
+        "64"
+      ],
+      "correctIndex": 1,
+      "explanation": "Differences are -10, -9, -8, so next is -7."
+    },
+    {
+      "id": "n76",
+      "question": "What comes next in the series: 2, 3, 5, 8, 13, ___?",
+      "options": [
+        "25",
+        "19",
+        "21",
+        "36"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fibonacci pattern: add the previous two numbers."
+    },
+    {
+      "id": "n77",
+      "question": "What comes next in the series: 4, 6, 10, 16, 26, ___?",
+      "options": [
+        "41",
+        "47",
+        "54",
+        "42"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each term is the sum of the previous two."
+    },
+    {
+      "id": "n78",
+      "question": "What comes next in the series: 7, 14, 28, 56, ___?",
+      "options": [
+        "112",
+        "114",
+        "110",
+        "127"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each number is multiplied by 2."
+    },
+    {
+      "id": "n79",
+      "question": "What comes next in the series: 81, 27, 9, 3, ___?",
+      "options": [
+        "6",
+        "1",
+        "0",
+        "11"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each number is divided by 3."
+    },
+    {
+      "id": "n80",
+      "question": "What comes next in the series: 11, 22, 44, 88, ___?",
+      "options": [
+        "188",
+        "171",
+        "178",
+        "176"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each number is multiplied by 2."
+    },
+    {
+      "id": "n81",
+      "question": "What comes next in the series: 6, 12, 18, 24, ___?",
+      "options": [
+        "26",
+        "30",
+        "42",
+        "38"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pattern increases by 6."
+    },
+    {
+      "id": "n82",
+      "question": "What comes next in the series: 15, 30, 45, 60, ___?",
+      "options": [
+        "90",
+        "80",
+        "71",
+        "75"
+      ],
+      "correctIndex": 3,
+      "explanation": "The pattern increases by 15."
+    },
+    {
+      "id": "n83",
+      "question": "What comes next in the series: 50, 45, 40, 35, ___?",
+      "options": [
+        "34",
+        "42",
+        "30",
+        "28"
+      ],
+      "correctIndex": 2,
+      "explanation": "The pattern decreases by 5."
+    },
+    {
+      "id": "n84",
+      "question": "What comes next in the series: 120, 100, 80, 60, ___?",
+      "options": [
+        "40",
+        "35",
+        "52",
+        "45"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pattern decreases by 20."
+    },
+    {
+      "id": "n85",
+      "question": "What comes next in the series: 9, 18, 36, 72, ___?",
+      "options": [
+        "149",
+        "140",
+        "154",
+        "144"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each number is multiplied by 2."
+    },
+    {
+      "id": "n86",
+      "question": "What comes next in the series: 1, 3, 6, 10, 15, ___?",
+      "options": [
+        "21",
+        "17",
+        "36",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "Triangular numbers increase by +2, +3, +4, +5, then +6."
+    },
+    {
+      "id": "n87",
+      "question": "What comes next in the series: 2, 5, 10, 17, 26, ___?",
+      "options": [
+        "52",
+        "33",
+        "39",
+        "37"
+      ],
+      "correctIndex": 3,
+      "explanation": "Differences are +3, +5, +7, +9, so next is +11."
+    },
+    {
+      "id": "n88",
+      "question": "What comes next in the series: 64, 32, 16, 8, ___?",
+      "options": [
+        "-1",
+        "12",
+        "4",
+        "16"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each number is divided by 2."
+    },
+    {
+      "id": "n89",
+      "question": "What comes next in the series: 125, 100, 75, 50, ___?",
+      "options": [
+        "37",
+        "21",
+        "25",
+        "29"
+      ],
+      "correctIndex": 2,
+      "explanation": "The pattern decreases by 25."
+    },
+    {
+      "id": "n90",
+      "question": "What comes next in the series: 13, 26, 39, 52, ___?",
+      "options": [
+        "65",
+        "67",
+        "75",
+        "61"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pattern increases by 13."
+    },
+    {
+      "id": "n91",
+      "question": "What comes next in the series: 2, 9, 16, 23, ___?",
+      "options": [
+        "35",
+        "26",
+        "42",
+        "30"
+      ],
+      "correctIndex": 3,
+      "explanation": "The pattern increases by 7."
+    },
+    {
+      "id": "n92",
+      "question": "What comes next in the series: 5, 11, 23, 47, ___?",
+      "options": [
+        "97",
+        "93",
+        "110",
+        "95"
+      ],
+      "correctIndex": 3,
+      "explanation": "Each term is ×2 + 1."
+    },
+    {
+      "id": "n93",
+      "question": "What comes next in the series: 90, 45, 22.5, 11.25, ___?",
+      "options": [
+        "5.625",
+        "17.625",
+        "13.625",
+        "4.625"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each number is divided by 2."
+    },
+    {
+      "id": "n94",
+      "question": "What comes next in the series: 8, 13, 18, 23, ___?",
+      "options": [
+        "26",
+        "36",
+        "38",
+        "28"
+      ],
+      "correctIndex": 3,
+      "explanation": "The pattern increases by 5."
+    },
+    {
+      "id": "n95",
+      "question": "What comes next in the series: 3, 12, 48, 192, ___?",
+      "options": [
+        "773",
+        "783",
+        "768",
+        "767"
+      ],
+      "correctIndex": 2,
+      "explanation": "Each number is multiplied by 4."
+    },
+    {
+      "id": "n96",
+      "question": "If 3x + 7 = 22, what is x?",
+      "options": [
+        "6",
+        "4",
+        "7",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "3x = 22 - 7 = 15. Therefore, x = 15 ÷ 3 = 5."
+    },
+    {
+      "id": "n97",
+      "question": "If 5x + 9 = 34, what is x?",
+      "options": [
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctIndex": 3,
+      "explanation": "5x = 34 - 9 = 25. Therefore, x = 25 ÷ 5 = 5."
+    },
+    {
+      "id": "n98",
+      "question": "If 4x + 6 = 30, what is x?",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "correctIndex": 1,
+      "explanation": "4x = 30 - 6 = 24. Therefore, x = 24 ÷ 4 = 6."
+    },
+    {
+      "id": "n99",
+      "question": "If 7x + 5 = 40, what is x?",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "7x = 40 - 5 = 35. Therefore, x = 35 ÷ 7 = 5."
+    },
+    {
+      "id": "n100",
+      "question": "If 2x + 11 = 25, what is x?",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "correctIndex": 2,
+      "explanation": "2x = 25 - 11 = 14. Therefore, x = 14 ÷ 2 = 7."
+    },
+    {
+      "id": "n101",
+      "question": "If 6x + 8 = 44, what is x?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "6x = 44 - 8 = 36. Therefore, x = 36 ÷ 6 = 6."
+    },
+    {
+      "id": "n102",
+      "question": "If 9x + 3 = 48, what is x?",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "9x = 48 - 3 = 45. Therefore, x = 45 ÷ 9 = 5."
+    },
+    {
+      "id": "n103",
+      "question": "If 8x + 12 = 60, what is x?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "8x = 60 - 12 = 48. Therefore, x = 48 ÷ 8 = 6."
+    },
+    {
+      "id": "n104",
+      "question": "If 10x + 15 = 85, what is x?",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "9"
+      ],
+      "correctIndex": 1,
+      "explanation": "10x = 85 - 15 = 70. Therefore, x = 70 ÷ 10 = 7."
+    },
+    {
+      "id": "n105",
+      "question": "If 12x + 4 = 76, what is x?",
+      "options": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "12x = 76 - 4 = 72. Therefore, x = 72 ÷ 12 = 6."
+    },
+    {
+      "id": "n106",
+      "question": "If 3x - 5 = 16, what is x?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "3x = 16 + 5 = 21. Therefore, x = 21 ÷ 3 = 7."
+    },
+    {
+      "id": "n107",
+      "question": "If 5x - 7 = 28, what is x?",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "5x = 28 + 7 = 35. Therefore, x = 35 ÷ 5 = 7."
+    },
+    {
+      "id": "n108",
+      "question": "If 4x - 8 = 20, what is x?",
+      "options": [
+        "9",
+        "6",
+        "8",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "4x = 20 + 8 = 28. Therefore, x = 28 ÷ 4 = 7."
+    },
+    {
+      "id": "n109",
+      "question": "If 6x - 6 = 42, what is x?",
+      "options": [
+        "8",
+        "10",
+        "9",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "6x = 42 + 6 = 48. Therefore, x = 48 ÷ 6 = 8."
+    },
+    {
+      "id": "n110",
+      "question": "If 7x - 9 = 54, what is x?",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "7x = 54 + 9 = 63. Therefore, x = 63 ÷ 7 = 9."
+    },
+    {
+      "id": "n111",
+      "question": "If 2x + 14 = 38, what is x?",
+      "options": [
+        "13",
+        "11",
+        "14",
+        "12"
+      ],
+      "correctIndex": 3,
+      "explanation": "2x = 38 - 14 = 24. Therefore, x = 24 ÷ 2 = 12."
+    },
+    {
+      "id": "n112",
+      "question": "If 11x + 5 = 71, what is x?",
+      "options": [
+        "8",
+        "5",
+        "7",
+        "6"
+      ],
+      "correctIndex": 3,
+      "explanation": "11x = 71 - 5 = 66. Therefore, x = 66 ÷ 11 = 6."
+    },
+    {
+      "id": "n113",
+      "question": "If 13x + 2 = 67, what is x?",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "4"
+      ],
+      "correctIndex": 1,
+      "explanation": "13x = 67 - 2 = 65. Therefore, x = 65 ÷ 13 = 5."
+    },
+    {
+      "id": "n114",
+      "question": "If 15x + 10 = 100, what is x?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "correctIndex": 1,
+      "explanation": "15x = 100 - 10 = 90. Therefore, x = 90 ÷ 15 = 6."
+    },
+    {
+      "id": "n115",
+      "question": "If 9x + 18 = 81, what is x?",
+      "options": [
+        "8",
+        "9",
+        "6",
+        "7"
+      ],
+      "correctIndex": 3,
+      "explanation": "9x = 81 - 18 = 63. Therefore, x = 63 ÷ 9 = 7."
+    },
+    {
+      "id": "n116",
+      "question": "If 16x + 4 = 84, what is x?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "16x = 84 - 4 = 80. Therefore, x = 80 ÷ 16 = 5."
+    },
+    {
+      "id": "n117",
+      "question": "If 14x + 7 = 91, what is x?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "5"
+      ],
+      "correctIndex": 2,
+      "explanation": "14x = 91 - 7 = 84. Therefore, x = 84 ÷ 14 = 6."
+    },
+    {
+      "id": "n118",
+      "question": "If 5x + 20 = 55, what is x?",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "9"
+      ],
+      "correctIndex": 2,
+      "explanation": "5x = 55 - 20 = 35. Therefore, x = 35 ÷ 5 = 7."
+    },
+    {
+      "id": "n119",
+      "question": "If 6x + 15 = 57, what is x?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "6x = 57 - 15 = 42. Therefore, x = 42 ÷ 6 = 7."
+    },
+    {
+      "id": "n120",
+      "question": "If 8x + 24 = 88, what is x?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "8x = 88 - 24 = 64. Therefore, x = 64 ÷ 8 = 8."
+    },
+    {
+      "id": "n121",
+      "question": "A quantity of 30 is divided in the ratio 2:3. What is the smaller/first share?",
+      "options": [
+        "7",
+        "17",
+        "22",
+        "12"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total parts = 2+3=5. First share = 2/5 × 30 = 12."
+    },
+    {
+      "id": "n122",
+      "question": "A quantity of 40 is divided in the ratio 3:5. What is the smaller/first share?",
+      "options": [
+        "25",
+        "20",
+        "10",
+        "15"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total parts = 3+5=8. First share = 3/8 × 40 = 15."
+    },
+    {
+      "id": "n123",
+      "question": "A quantity of 55 is divided in the ratio 4:7. What is the smaller/first share?",
+      "options": [
+        "15",
+        "30",
+        "20",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total parts = 4+7=11. First share = 4/11 × 55 = 20."
+    },
+    {
+      "id": "n124",
+      "question": "A quantity of 78 is divided in the ratio 5:8. What is the smaller/first share?",
+      "options": [
+        "30",
+        "25",
+        "40",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total parts = 5+8=13. First share = 5/13 × 78 = 30."
+    },
+    {
+      "id": "n125",
+      "question": "A quantity of 64 is divided in the ratio 7:9. What is the smaller/first share?",
+      "options": [
+        "38",
+        "33",
+        "23",
+        "28"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total parts = 7+9=16. First share = 7/16 × 64 = 28."
+    },
+    {
+      "id": "n126",
+      "question": "A quantity of 85 is divided in the ratio 6:11. What is the smaller/first share?",
+      "options": [
+        "35",
+        "40",
+        "30",
+        "25"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total parts = 6+11=17. First share = 6/17 × 85 = 30."
+    },
+    {
+      "id": "n127",
+      "question": "A quantity of 45 is divided in the ratio 1:4. What is the smaller/first share?",
+      "options": [
+        "4",
+        "19",
+        "14",
+        "9"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total parts = 1+4=5. First share = 1/5 × 45 = 9."
+    },
+    {
+      "id": "n128",
+      "question": "A quantity of 95 is divided in the ratio 9:10. What is the smaller/first share?",
+      "options": [
+        "55",
+        "50",
+        "40",
+        "45"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total parts = 9+10=19. First share = 9/19 × 95 = 45."
+    },
+    {
+      "id": "n129",
+      "question": "A quantity of 44 is divided in the ratio 5:6. What is the smaller/first share?",
+      "options": [
+        "25",
+        "15",
+        "20",
+        "30"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total parts = 5+6=11. First share = 5/11 × 44 = 20."
+    },
+    {
+      "id": "n130",
+      "question": "A quantity of 69 is divided in the ratio 8:15. What is the smaller/first share?",
+      "options": [
+        "19",
+        "24",
+        "34",
+        "29"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 8+15=23. First share = 8/23 × 69 = 24."
+    },
+    {
+      "id": "n131",
+      "question": "A quantity of 63 is divided in the ratio 3:4. What is the smaller/first share?",
+      "options": [
+        "27",
+        "37",
+        "32",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total parts = 3+4=7. First share = 3/7 × 63 = 27."
+    },
+    {
+      "id": "n132",
+      "question": "A quantity of 54 is divided in the ratio 2:7. What is the smaller/first share?",
+      "options": [
+        "12",
+        "7",
+        "22",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total parts = 2+7=9. First share = 2/9 × 54 = 12."
+    },
+    {
+      "id": "n133",
+      "question": "A quantity of 96 is divided in the ratio 11:13. What is the smaller/first share?",
+      "options": [
+        "49",
+        "44",
+        "39",
+        "54"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 11+13=24. First share = 11/24 × 96 = 44."
+    },
+    {
+      "id": "n134",
+      "question": "A quantity of 91 is divided in the ratio 4:9. What is the smaller/first share?",
+      "options": [
+        "23",
+        "28",
+        "38",
+        "33"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 4+9=13. First share = 4/13 × 91 = 28."
+    },
+    {
+      "id": "n135",
+      "question": "A quantity of 76 is divided in the ratio 7:12. What is the smaller/first share?",
+      "options": [
+        "33",
+        "23",
+        "28",
+        "38"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total parts = 7+12=19. First share = 7/19 × 76 = 28."
+    },
+    {
+      "id": "n136",
+      "question": "A quantity of 98 is divided in the ratio 5:9. What is the smaller/first share?",
+      "options": [
+        "45",
+        "35",
+        "40",
+        "30"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 5+9=14. First share = 5/14 × 98 = 35."
+    },
+    {
+      "id": "n137",
+      "question": "A quantity of 52 is divided in the ratio 6:7. What is the smaller/first share?",
+      "options": [
+        "34",
+        "19",
+        "29",
+        "24"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total parts = 6+7=13. First share = 6/13 × 52 = 24."
+    },
+    {
+      "id": "n138",
+      "question": "A quantity of 84 is divided in the ratio 10:11. What is the smaller/first share?",
+      "options": [
+        "50",
+        "35",
+        "45",
+        "40"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total parts = 10+11=21. First share = 10/21 × 84 = 40."
+    },
+    {
+      "id": "n139",
+      "question": "A quantity of 77 is divided in the ratio 3:8. What is the smaller/first share?",
+      "options": [
+        "31",
+        "21",
+        "16",
+        "26"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 3+8=11. First share = 3/11 × 77 = 21."
+    },
+    {
+      "id": "n140",
+      "question": "A quantity of 115 is divided in the ratio 9:14. What is the smaller/first share?",
+      "options": [
+        "55",
+        "45",
+        "40",
+        "50"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 9+14=23. First share = 9/23 × 115 = 45."
+    },
+    {
+      "id": "n141",
+      "question": "A quantity of 49 is divided in the ratio 2:5. What is the smaller/first share?",
+      "options": [
+        "14",
+        "24",
+        "9",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total parts = 2+5=7. First share = 2/7 × 49 = 14."
+    },
+    {
+      "id": "n142",
+      "question": "A quantity of 81 is divided in the ratio 4:5. What is the smaller/first share?",
+      "options": [
+        "41",
+        "31",
+        "36",
+        "46"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total parts = 4+5=9. First share = 4/9 × 81 = 36."
+    },
+    {
+      "id": "n143",
+      "question": "A quantity of 95 is divided in the ratio 6:13. What is the smaller/first share?",
+      "options": [
+        "25",
+        "30",
+        "40",
+        "35"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 6+13=19. First share = 6/19 × 95 = 30."
+    },
+    {
+      "id": "n144",
+      "question": "A quantity of 88 is divided in the ratio 1:3. What is the smaller/first share?",
+      "options": [
+        "17",
+        "22",
+        "32",
+        "27"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total parts = 1+3=4. First share = 1/4 × 88 = 22."
+    },
+    {
+      "id": "n145",
+      "question": "A quantity of 120 is divided in the ratio 7:8. What is the smaller/first share?",
+      "options": [
+        "56",
+        "51",
+        "61",
+        "66"
+      ],
+      "correctIndex": 0,
+      "explanation": "Total parts = 7+8=15. First share = 7/15 × 120 = 56."
+    },
+    {
+      "id": "n146",
+      "question": "A vehicle travels 240 km in 4 hours. What is its average speed?",
+      "options": [
+        "55 km/h",
+        "65 km/h",
+        "70 km/h",
+        "60 km/h"
+      ],
+      "correctIndex": 3,
+      "explanation": "Speed = distance ÷ time = 240 ÷ 4 = 60 km/h."
+    },
+    {
+      "id": "n147",
+      "question": "A vehicle travels 180 km in 3 hours. What is its average speed?",
+      "options": [
+        "70 km/h",
+        "60 km/h",
+        "65 km/h",
+        "55 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = distance ÷ time = 180 ÷ 3 = 60 km/h."
+    },
+    {
+      "id": "n148",
+      "question": "A vehicle travels 300 km in 5 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "55 km/h",
+        "70 km/h",
+        "65 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speed = distance ÷ time = 300 ÷ 5 = 60 km/h."
+    },
+    {
+      "id": "n149",
+      "question": "A vehicle travels 150 km in 2 hours. What is its average speed?",
+      "options": [
+        "80 km/h",
+        "70 km/h",
+        "85 km/h",
+        "75 km/h"
+      ],
+      "correctIndex": 3,
+      "explanation": "Speed = distance ÷ time = 150 ÷ 2 = 75 km/h."
+    },
+    {
+      "id": "n150",
+      "question": "A vehicle travels 420 km in 6 hours. What is its average speed?",
+      "options": [
+        "75 km/h",
+        "65 km/h",
+        "70 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Speed = distance ÷ time = 420 ÷ 6 = 70 km/h."
+    },
+    {
+      "id": "n151",
+      "question": "A vehicle travels 360 km in 4 hours. What is its average speed?",
+      "options": [
+        "85 km/h",
+        "95 km/h",
+        "90 km/h",
+        "100 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Speed = distance ÷ time = 360 ÷ 4 = 90 km/h."
+    },
+    {
+      "id": "n152",
+      "question": "A vehicle travels 90 km in 1.5 hours. What is its average speed?",
+      "options": [
+        "55 km/h",
+        "60 km/h",
+        "65 km/h",
+        "70 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = distance ÷ time = 90 ÷ 1.5 = 60 km/h."
+    },
+    {
+      "id": "n153",
+      "question": "A vehicle travels 275 km in 5 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "65 km/h",
+        "50 km/h",
+        "55 km/h"
+      ],
+      "correctIndex": 3,
+      "explanation": "Speed = distance ÷ time = 275 ÷ 5 = 55 km/h."
+    },
+    {
+      "id": "n154",
+      "question": "A vehicle travels 480 km in 8 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "70 km/h",
+        "55 km/h",
+        "65 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speed = distance ÷ time = 480 ÷ 8 = 60 km/h."
+    },
+    {
+      "id": "n155",
+      "question": "A vehicle travels 210 km in 3 hours. What is its average speed?",
+      "options": [
+        "75 km/h",
+        "65 km/h",
+        "70 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Speed = distance ÷ time = 210 ÷ 3 = 70 km/h."
+    },
+    {
+      "id": "n156",
+      "question": "A vehicle travels 600 km in 10 hours. What is its average speed?",
+      "options": [
+        "70 km/h",
+        "55 km/h",
+        "60 km/h",
+        "65 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Speed = distance ÷ time = 600 ÷ 10 = 60 km/h."
+    },
+    {
+      "id": "n157",
+      "question": "A vehicle travels 330 km in 6 hours. What is its average speed?",
+      "options": [
+        "55 km/h",
+        "60 km/h",
+        "50 km/h",
+        "65 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speed = distance ÷ time = 330 ÷ 6 = 55 km/h."
+    },
+    {
+      "id": "n158",
+      "question": "A vehicle travels 144 km in 2 hours. What is its average speed?",
+      "options": [
+        "67 km/h",
+        "77 km/h",
+        "82 km/h",
+        "72 km/h"
+      ],
+      "correctIndex": 3,
+      "explanation": "Speed = distance ÷ time = 144 ÷ 2 = 72 km/h."
+    },
+    {
+      "id": "n159",
+      "question": "A vehicle travels 525 km in 7 hours. What is its average speed?",
+      "options": [
+        "85 km/h",
+        "75 km/h",
+        "70 km/h",
+        "80 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = distance ÷ time = 525 ÷ 7 = 75 km/h."
+    },
+    {
+      "id": "n160",
+      "question": "A vehicle travels 72 km in 1.2 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "55 km/h",
+        "65 km/h",
+        "70 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speed = distance ÷ time = 72 ÷ 1.2 = 60 km/h."
+    },
+    {
+      "id": "n161",
+      "question": "A vehicle travels 405 km in 9 hours. What is its average speed?",
+      "options": [
+        "45 km/h",
+        "55 km/h",
+        "40 km/h",
+        "50 km/h"
+      ],
+      "correctIndex": 0,
+      "explanation": "Speed = distance ÷ time = 405 ÷ 9 = 45 km/h."
+    },
+    {
+      "id": "n162",
+      "question": "A vehicle travels 250 km in 5 hours. What is its average speed?",
+      "options": [
+        "60 km/h",
+        "45 km/h",
+        "50 km/h",
+        "55 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Speed = distance ÷ time = 250 ÷ 5 = 50 km/h."
+    },
+    {
+      "id": "n163",
+      "question": "A vehicle travels 96 km in 1.5 hours. What is its average speed?",
+      "options": [
+        "69 km/h",
+        "64 km/h",
+        "74 km/h",
+        "59 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = distance ÷ time = 96 ÷ 1.5 = 64 km/h."
+    },
+    {
+      "id": "n164",
+      "question": "A vehicle travels 640 km in 8 hours. What is its average speed?",
+      "options": [
+        "85 km/h",
+        "90 km/h",
+        "80 km/h",
+        "75 km/h"
+      ],
+      "correctIndex": 2,
+      "explanation": "Speed = distance ÷ time = 640 ÷ 8 = 80 km/h."
+    },
+    {
+      "id": "n165",
+      "question": "A vehicle travels 128 km in 2 hours. What is its average speed?",
+      "options": [
+        "74 km/h",
+        "64 km/h",
+        "69 km/h",
+        "59 km/h"
+      ],
+      "correctIndex": 1,
+      "explanation": "Speed = distance ÷ time = 128 ÷ 2 = 64 km/h."
+    },
+    {
+      "id": "n166",
+      "question": "A rectangle has a length of 12 cm and width of 7 cm. What is its area?",
+      "options": [
+        "84 cm²",
+        "90 cm²",
+        "78 cm²",
+        "96 cm²"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area = length × width = 12 × 7 = 84 cm²."
+    },
+    {
+      "id": "n167",
+      "question": "A rectangle has a length of 15 cm and width of 8 cm. What is its area?",
+      "options": [
+        "126 cm²",
+        "132 cm²",
+        "114 cm²",
+        "120 cm²"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = length × width = 15 × 8 = 120 cm²."
+    },
+    {
+      "id": "n168",
+      "question": "A rectangle has a length of 20 cm and width of 9 cm. What is its area?",
+      "options": [
+        "174 cm²",
+        "180 cm²",
+        "186 cm²",
+        "192 cm²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = length × width = 20 × 9 = 180 cm²."
+    },
+    {
+      "id": "n169",
+      "question": "A rectangle has a length of 18 cm and width of 6 cm. What is its area?",
+      "options": [
+        "120 cm²",
+        "108 cm²",
+        "102 cm²",
+        "114 cm²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = length × width = 18 × 6 = 108 cm²."
+    },
+    {
+      "id": "n170",
+      "question": "A rectangle has a length of 25 cm and width of 4 cm. What is its area?",
+      "options": [
+        "106 cm²",
+        "94 cm²",
+        "100 cm²",
+        "112 cm²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = length × width = 25 × 4 = 100 cm²."
+    },
+    {
+      "id": "n171",
+      "question": "What is the perimeter of a square with side 9 cm?",
+      "options": [
+        "40 cm",
+        "32 cm",
+        "36 cm",
+        "81 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter = 4 × side = 4 × 9 = 36 cm."
+    },
+    {
+      "id": "n172",
+      "question": "What is the perimeter of a square with side 14 cm?",
+      "options": [
+        "52 cm",
+        "196 cm",
+        "56 cm",
+        "60 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter = 4 × side = 4 × 14 = 56 cm."
+    },
+    {
+      "id": "n173",
+      "question": "What is the perimeter of a square with side 16 cm?",
+      "options": [
+        "64 cm",
+        "68 cm",
+        "256 cm",
+        "60 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perimeter = 4 × side = 4 × 16 = 64 cm."
+    },
+    {
+      "id": "n174",
+      "question": "What is the perimeter of a square with side 21 cm?",
+      "options": [
+        "88 cm",
+        "441 cm",
+        "84 cm",
+        "80 cm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Perimeter = 4 × side = 4 × 21 = 84 cm."
+    },
+    {
+      "id": "n175",
+      "question": "What is the perimeter of a square with side 25 cm?",
+      "options": [
+        "100 cm",
+        "96 cm",
+        "104 cm",
+        "625 cm"
+      ],
+      "correctIndex": 0,
+      "explanation": "Perimeter = 4 × side = 4 × 25 = 100 cm."
+    },
+    {
+      "id": "n176",
+      "question": "A triangle has a base of 12 cm and height of 10 cm. What is its area?",
+      "options": [
+        "55 cm²",
+        "120 cm²",
+        "65 cm²",
+        "60 cm²"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = 1/2 × base × height = 1/2 × 12 × 10 = 60 cm²."
+    },
+    {
+      "id": "n177",
+      "question": "A triangle has a base of 18 cm and height of 8 cm. What is its area?",
+      "options": [
+        "77 cm²",
+        "67 cm²",
+        "72 cm²",
+        "144 cm²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = 1/2 × base × height = 1/2 × 18 × 8 = 72 cm²."
+    },
+    {
+      "id": "n178",
+      "question": "A triangle has a base of 20 cm and height of 15 cm. What is its area?",
+      "options": [
+        "300 cm²",
+        "155 cm²",
+        "150 cm²",
+        "145 cm²"
+      ],
+      "correctIndex": 2,
+      "explanation": "Area = 1/2 × base × height = 1/2 × 20 × 15 = 150 cm²."
+    },
+    {
+      "id": "n179",
+      "question": "A triangle has a base of 14 cm and height of 9 cm. What is its area?",
+      "options": [
+        "126 cm²",
+        "63 cm²",
+        "68 cm²",
+        "58 cm²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = 1/2 × base × height = 1/2 × 14 × 9 = 63 cm²."
+    },
+    {
+      "id": "n180",
+      "question": "A triangle has a base of 16 cm and height of 11 cm. What is its area?",
+      "options": [
+        "176 cm²",
+        "88 cm²",
+        "93 cm²",
+        "83 cm²"
+      ],
+      "correctIndex": 1,
+      "explanation": "Area = 1/2 × base × height = 1/2 × 16 × 11 = 88 cm²."
+    },
+    {
+      "id": "n181",
+      "question": "Using π = 22/7, what is the circumference of a circle with radius 7 cm?",
+      "options": [
+        "50 cm",
+        "42 cm",
+        "46 cm",
+        "38 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Circumference = 2πr = 2 × 22/7 × 7 = 42 cm."
+    },
+    {
+      "id": "n182",
+      "question": "Using π = 22/7, what is the circumference of a circle with radius 14 cm?",
+      "options": [
+        "88 cm",
+        "84 cm",
+        "80 cm",
+        "92 cm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Circumference = 2πr = 2 × 22/7 × 14 = 84 cm."
+    },
+    {
+      "id": "n183",
+      "question": "Using π = 22/7, what is the area of a circle with radius 7 cm?",
+      "options": [
+        "133 cm²",
+        "161 cm²",
+        "175 cm²",
+        "147 cm²"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = πr² = 22/7 × 7² = 147 cm²."
+    },
+    {
+      "id": "n184",
+      "question": "Using π = 22/7, what is the area of a circle with radius 10 cm?",
+      "options": [
+        "300 cm²",
+        "328 cm²",
+        "342 cm²",
+        "314 cm²"
+      ],
+      "correctIndex": 3,
+      "explanation": "Area = πr² = 22/7 × 10² = 314 cm²."
+    },
+    {
+      "id": "n185",
+      "question": "Using π = 22/7, what is the area of a circle with radius 14 cm?",
+      "options": [
+        "588 cm²",
+        "616 cm²",
+        "602 cm²",
+        "574 cm²"
+      ],
+      "correctIndex": 0,
+      "explanation": "Area = πr² = 22/7 × 14² = 588 cm²."
+    },
+    {
+      "id": "n186",
+      "question": "If a worker earns ₱600 per day and works 5 days a week, how much will the worker earn in 4 weeks?",
+      "options": [
+        "₱14,000",
+        "₱12,000",
+        "₱13,000",
+        "₱11,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Weekly income = 600 × 5 = ₱3,000. Total = 3000 × 4 = ₱12,000."
+    },
+    {
+      "id": "n187",
+      "question": "If a worker earns ₱750 per day and works 6 days a week, how much will the worker earn in 3 weeks?",
+      "options": [
+        "₱14,500",
+        "₱12,500",
+        "₱15,500",
+        "₱13,500"
+      ],
+      "correctIndex": 3,
+      "explanation": "Weekly income = 750 × 6 = ₱4,500. Total = 4500 × 3 = ₱13,500."
+    },
+    {
+      "id": "n188",
+      "question": "If a worker earns ₱520 per day and works 5 days a week, how much will the worker earn in 2 weeks?",
+      "options": [
+        "₱4,200",
+        "₱7,200",
+        "₱5,200",
+        "₱6,200"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weekly income = 520 × 5 = ₱2,600. Total = 2600 × 2 = ₱5,200."
+    },
+    {
+      "id": "n189",
+      "question": "If a worker earns ₱680 per day and works 4 days a week, how much will the worker earn in 5 weeks?",
+      "options": [
+        "₱13,600",
+        "₱14,600",
+        "₱15,600",
+        "₱12,600"
+      ],
+      "correctIndex": 0,
+      "explanation": "Weekly income = 680 × 4 = ₱2,720. Total = 2720 × 5 = ₱13,600."
+    },
+    {
+      "id": "n190",
+      "question": "If a worker earns ₱900 per day and works 5 days a week, how much will the worker earn in 3 weeks?",
+      "options": [
+        "₱15,500",
+        "₱14,500",
+        "₱13,500",
+        "₱12,500"
+      ],
+      "correctIndex": 2,
+      "explanation": "Weekly income = 900 × 5 = ₱4,500. Total = 4500 × 3 = ₱13,500."
+    },
+    {
+      "id": "n191",
+      "question": "If one pen costs ₱18, how much will 12 pens cost?",
+      "options": [
+        "₱198",
+        "₱216",
+        "₱234",
+        "₱252"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total cost = 18 × 12 = ₱216."
+    },
+    {
+      "id": "n192",
+      "question": "If one pen costs ₱25, how much will 9 pens cost?",
+      "options": [
+        "₱250",
+        "₱200",
+        "₱275",
+        "₱225"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total cost = 25 × 9 = ₱225."
+    },
+    {
+      "id": "n193",
+      "question": "If one notebook costs ₱45, how much will 8 notebooks cost?",
+      "options": [
+        "₱315",
+        "₱360",
+        "₱450",
+        "₱405"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total cost = 45 × 8 = ₱360."
+    },
+    {
+      "id": "n194",
+      "question": "If one ticket costs ₱120, how much will 7 tickets cost?",
+      "options": [
+        "₱960",
+        "₱1,080",
+        "₱840",
+        "₱720"
+      ],
+      "correctIndex": 2,
+      "explanation": "Total cost = 120 × 7 = ₱840."
+    },
+    {
+      "id": "n195",
+      "question": "If one book costs ₱95, how much will 6 books cost?",
+      "options": [
+        "₱475",
+        "₱760",
+        "₱665",
+        "₱570"
+      ],
+      "correctIndex": 3,
+      "explanation": "Total cost = 95 × 6 = ₱570."
+    },
+    {
+      "id": "n196",
+      "question": "If 6 workers can finish a job in 12 days, how many days will 3 workers need to finish the same job?",
+      "options": [
+        "28 days",
+        "24 days",
+        "22 days",
+        "26 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total work = 6 × 12 = 72 worker-days. Days = 72 ÷ 3 = 24 days."
+    },
+    {
+      "id": "n197",
+      "question": "If 8 workers can finish a job in 15 days, how many days will 5 workers need to finish the same job?",
+      "options": [
+        "28 days",
+        "24 days",
+        "22 days",
+        "26 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "Total work = 8 × 15 = 120 worker-days. Days = 120 ÷ 5 = 24 days."
+    },
+    {
+      "id": "n198",
+      "question": "A van travels 80 km using 20 liters of fuel. How many liters are needed for 500 km?",
+      "options": [
+        "130 liters",
+        "125 liters",
+        "135 liters",
+        "120 liters"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fuel per km is proportional. Liters = 500 × 20 ÷ 80 = 125 liters."
+    },
+    {
+      "id": "n199",
+      "question": "A van travels 60 km using 15 liters of fuel. How many liters are needed for 300 km?",
+      "options": [
+        "80 liters",
+        "85 liters",
+        "75 liters",
+        "70 liters"
+      ],
+      "correctIndex": 2,
+      "explanation": "Fuel per km is proportional. Liters = 300 × 15 ÷ 60 = 75 liters."
+    },
+    {
+      "id": "n200",
+      "question": "A van travels 120 km using 30 liters of fuel. How many liters are needed for 480 km?",
+      "options": [
+        "125 liters",
+        "115 liters",
+        "130 liters",
+        "120 liters"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fuel per km is proportional. Liters = 480 × 30 ÷ 120 = 120 liters."
+    }
+  ]
+}
